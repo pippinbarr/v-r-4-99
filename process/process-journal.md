@@ -68,3 +68,52 @@ I think it would make sense to only exhibit one work per creator to avoid samey 
 Ooooo the [Cyber Room](https://assetstore.unity.com/packages/3d/environments/sci-fi/cyberpunk-cyber-room-169139) could be very worthwhile.
 
 Oh wow, so I'm officially excited about this one my friends. The curation needs some more thought but this is *absolutely* going to work and be kind of spectacular I think.
+
+---
+
+# Selection; exhibition strategy; other thoughts (06-05-2021 15:29)
+
+With the idea of making this a project about assets that cost $4.99 more or less settled (I even renamed the repository and the project itself), I can turn my mind toward the key curatorial questions
+
+* What is the selection process?
+* What is the space and exhibition strategy for presentation?
+
+## Selection
+
+There are a few strategies for selection, as already approached above to some extent, here is just a list of what I can think of for now
+
+* *Everything* that costs $4.99 (prohibitively expensive at roughly $30,000)
+* An *alphabet* of 26 elements (or including numbers 36 elements) ($129.74 or $179.64)
+* *n* of the highest rated, lowest rated, somehow rated (or based on popularity)
+* One item per page of search results, yielding *n*=252 ($1,257.48, a bit much)
+* *n* items purely based on selection by me because I want them
+* *n* items premised on different categories of object to show diversity (e.g. only one gun, one environment, one character model)
+* *n* items chosen at random (via random number generator I suppose)
+
+Currently I'm leaning toward my own opinion because I just think that would be more fun? In that case I think the method would have to be to literally go through all 6000+ items, write notes about the interesting ones as I go (probably more notes early as I think about categories of things and their relationship to exhibition strategy), and then select based on that?
+
+I'm thinking something like n=20 to n=40 so that it's up to a couple hundred bucks to make.
+
+## Exhibition strategy
+
+There are a lot of different ways to present these items to the user, as many ways as there are to build worlds in Unity I suppose, so I need some kind of strategy that is a) doable by me, a not-very-good Unity user and b) plays into the theme of the exhibition suitably, highlighting the idea and making it accessible.
+
+Current thinking about options for location/place here...
+
+* Something *like v r 2 and v r 3* with the artillery sheds and the assets inside them. I suspect this won't work well because of potential issues of scale with some of the elements. While I could scale everything down and put them on plinths, I don't think that's the correct way forward for this one.
+* Something that's *still like a gallery* but a more developed space with rooms and wings and so on to accommodate some potentially very large elements that might be needed. I like this idea in the context of something like the Cyber Room above because it could be presented as an installation work, a room with a didact outside that you go into and explore/experience. This has the advantage of situating the assets firmly as *art* again which I think is a helpful/good context to put them in for a viewer. It's possible I can buy a gallery for $4.99? Could I be so lucky? (There is a [Showroom Environment](https://assetstore.unity.com/packages/3d/environments/showroom-environment-73740), but it feels like the space could be a bit limited? Fun one to include in the final project regardless)
+* Something like one of those *art parks* like [Storm King Art Center](https://stormking.org/). Create a terrain with trees and water and shit. I quite like this one because there's a chance to evoke the larger ideas of installation art, land art, etc. It scares me because it's not a strength of mine. There are some possibilities in there though like this [Sahara Desert Landscape](https://assetstore.unity.com/packages/3d/environments/landscapes/sahara-desert-landscape-72780#description) which appears to be a terrain with high map stuff etc. A desert is a potentially intriguing place, references Marfa, references Ozymandias, etc. A desert that costs $4.99 is funny. How do you label it? Anyway, art park with a bought asset seems not impossible right now, and quite fun.
+* Something more like *"just a world"* that happens to have all this stuff in it, but it's unclear how distinct that would be from an art park given all the stuff needs labelling.
+
+And what about labelling?
+
+* Something like *v r 2 and v r 3* with standard Didacts attached to or near objects/spaces. This is the most obvious and presumably the strongest choice? It would tie it to the previous games importantly and reinforce the art message going on. If there are *moving* elements, though, then how would that work? Let them animate but in place? Have a hovering HUD kind of thing over elements to learn about them?
+* Something more AR style with text floating above/around each object - feels like this gets more surreal and less austere and focused on the objects though... art park is my current winner right this moment, though it has a number of challenges associated with it (like how to build structures for the internal environments?)
+
+## Other thoughts
+
+* I should make it buyable on itch.io with a suggested price of $4.99 obviously
+* There's a tricky money issue in terms of it being kind of alarming to spend real money as I go - I felt it a bit with v r 3, but this is even more intense than that because everything will cost money and may or may not work out
+* I'm almost certainly going to end up buying things that don't work out just to find out how they feel - I guess I can get refunds on some things that simply don't work for my purposes? But I'd need to be ready for some "no refunds" situations and some money lost (probably that's fine though).
+
+Overall I think we're getting there. I think there's a ton of really generative work to be done just going through the assets and dreaming/thinking/designing through them. And then could it be that the assembly "just works"? No of course not, but we can wish.
