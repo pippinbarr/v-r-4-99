@@ -1,4 +1,8 @@
+# FU Mac
 .DS_Store
+
+# Asset Store
+/[Aa]ssets/4-99/
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
