@@ -117,3 +117,21 @@ And what about labelling?
 * I'm almost certainly going to end up buying things that don't work out just to find out how they feel - I guess I can get refunds on some things that simply don't work for my purposes? But I'd need to be ready for some "no refunds" situations and some money lost (probably that's fine though).
 
 Overall I think we're getting there. I think there's a ton of really generative work to be done just going through the assets and dreaming/thinking/designing through them. And then could it be that the assembly "just works"? No of course not, but we can wish.
+
+---
+
+# Welcome to the desert (07-05-2021 16:06)
+
+Well! Exciting times as I actually created the Unity project and bought my first asset for $4.99 (plus tax and so on), which is, as promised, the [Sahara Desert Landscape](https://assetstore.unity.com/packages/3d/environments/landscapes/sahara-desert-landscape-72780#description). Also grabbed the evergreen wonder that is the [First Person Drifter](http://www.torahhorse.com/index.php/portfolio/first-person-drifter-for-unity/) character controller, though I'm still wondering whether I should be looking for a character controller that costs $4.99? How would I indicate it though? Maybe with an instructions screen at the start? Is there one? Doesn't look like it.
+
+Anyway, I copied the sample scene from the Sahara Desert asset and put the controller into it and hey presto I can walk around on the quite nice sand dunes...
+
+![](images/the-desert.png)
+
+Which is to say that at least for the moment I have my environment! I clearly need a placard of some kind of credit the landscape... I guess it should be the first thing you see when you spawn into the world. So I'll need some kind of informational display object (which I guess I won't actually buy but will just model in Blender or even in Probuilder potentially).
+
+It's pretty exciting to already be building something and to have the first purchase look like it's going to work. It's a fairly large environment, though I'll need to pace it out a bit more with perhaps some cubes of different sizes to understand scale. Definitely feels like a solid choice for some fucking land art and other stuff. I really want to buy the Cyber Room now and figure out how to put it inside a little cube area that you can walk into... I think that may feel quite magical? We'll see.
+
+Anyway this thing is underway and I'm still optimistic. The horrible problems are yet to appear.
+
+Oh I should say quickly that I'm putting all the purchased assets into a folder called 4-99 which I'm excluding from the Git repository so that I'm not exposing paid assets at all. It means the repo is a teensy bit useless in terms of recreating the game, but so it goes, so it goes.
