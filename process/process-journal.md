@@ -135,3 +135,11 @@ It's pretty exciting to already be building something and to have the first purc
 Anyway this thing is underway and I'm still optimistic. The horrible problems are yet to appear.
 
 Oh I should say quickly that I'm putting all the purchased assets into a folder called 4-99 which I'm excluding from the Git repository so that I'm not exposing paid assets at all. It means the repo is a teensy bit useless in terms of recreating the game, but so it goes, so it goes.
+
+---
+
+# Controllers and communities (10-05-2021 11:58)
+
+I tweeted sadly about first person controllers the other day and, although I've already installed and have been using the classic First Person Drifter, I got another couple of recommendations I'll probably check out when I have a moment. They are [Gold Player](https://github.com/Hertzole/gold-player) by Hertzole, (recommended by [Robert Yang](https://twitter.com/radiatoryang)), and [The First Person](https://github.com/boaheck/TheFirstPerson) by Breogan Hackett (recommended by [Federico Fasce](https://twitter.com/kurai)). Hertzole was so magnificent as to notice Robert's recommendation and [implement a zoom feature in the controller](https://twitter.com/hertzole/status/1391364631478812676?s=20) which is something I need/want; and Breoghan kindly offered support if needed.
+
+All of this is to say: oh yeah, communities. I don't avail myself of the broad community of experimental/indie game developers I'm a de facto part of, so it feels especially remarkable and magic when you say something into a warm and inviting void and have it reply with helpful and supportive words and links.
