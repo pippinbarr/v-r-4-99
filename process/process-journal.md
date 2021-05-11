@@ -143,3 +143,38 @@ Oh I should say quickly that I'm putting all the purchased assets into a folder 
 I tweeted sadly about first person controllers the other day and, although I've already installed and have been using the classic First Person Drifter, I got another couple of recommendations I'll probably check out when I have a moment. They are [Gold Player](https://github.com/Hertzole/gold-player) by Hertzole, (recommended by [Robert Yang](https://twitter.com/radiatoryang)), and [The First Person](https://github.com/boaheck/TheFirstPerson) by Breogan Hackett (recommended by [Federico Fasce](https://twitter.com/kurai)). Hertzole was so magnificent as to notice Robert's recommendation and [implement a zoom feature in the controller](https://twitter.com/hertzole/status/1391364631478812676?s=20) which is something I need/want; and Breoghan kindly offered support if needed.
 
 All of this is to say: oh yeah, communities. I don't avail myself of the broad community of experimental/indie game developers I'm a de facto part of, so it feels especially remarkable and magic when you say something into a warm and inviting void and have it reply with helpful and supportive words and links.
+
+---
+
+# PBR Statues Pack; Loss of the cyber room (11-05-2021 16:19)
+
+I've felt oddly significant anxiety about putting assets into this game. I suppose it's in part just because they actively cost money and that feels significance, but it's also curation anxiety. I don't want to end up picking a bunch of dumb stuff that's dumb. At some level I suspect that any reasonably diverse set of assets will work, but the only way to find out is to do it and that's taxing somehow.
+
+## PBR Statues Pack
+
+Anyway, I did add my first non-desert asset, which is the [PBR Statues Pack](https://assetstore.unity.com/packages/3d/environments/fantasy/pbr-statues-pack-91623) by Maksim Bugrimov. They're pretty fancy looking with nice textures and... stuff. I'm realizing I don't know much about how to speak about these kinds of assets. They reflect the light nicely? They have a kind of generic fantasy world idea behind them. Buddhas, monks, Norse runic stones. Actually it's pretty weird how diverse they are? Why would these different categories be together in the first place? Very museum-y actually which is funny and appropriate.
+
+For now I've just dumbed the available prefabs in the pack into the desert near the player and taken a look at them. They're certainly there, in the desert. It raises a few things:
+
+* Where to put them?
+* How to arrange them spatially?
+* Should I be rotating them, telling any kind of story?
+* Am I trying to make them look aesthetically appealing? Look their best? Am I just amusing myself?
+* Scale? No, right?
+* Should they look like they're properly situated on the terrain? Yes, right?
+* Should I add colliders if they don't have them by default? Tricky - I *want* to but it's not part of the asset but it doesn't do any harm? HMMMM.
+* How do I choose things? I chose these statues mostly just because they looked kind of nice and seemed like something that wanted to be displayed, but those aren't good criteria
+
+I also really need the informational plinth next because that will help situate them as something to look at etc.
+
+Anyway, I don't have reduce anxiety but it was nice to do something and see a result. Maybe a touch underwhelming, but that's fine that's fine.
+
+Also I haven't really resolved any selection stuff.
+
+## Loss of the cyber room
+
+I *wanted* to use the Cyber Room as my first asset - I love the idea of an interior scene and I'll still look for one. But now it costs $5.55! What the fuck!?!? Damn you!
+
+Not really, they're welcome to charge what they want, but I'm saddened I have to say. I was genuinely excited. I guess they're probably repriced everything up to $5.55 by now, which is fine. What the market will bear blah blah.
+
+And anyway there's probably something interesting about the fluctuation of prices and my ability to put particular kinds of work into this game. It's a good thing to run into.
