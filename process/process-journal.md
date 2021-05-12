@@ -154,6 +154,8 @@ I've felt oddly significant anxiety about putting assets into this game. I suppo
 
 Anyway, I did add my first non-desert asset, which is the [PBR Statues Pack](https://assetstore.unity.com/packages/3d/environments/fantasy/pbr-statues-pack-91623) by Maksim Bugrimov. They're pretty fancy looking with nice textures and... stuff. I'm realizing I don't know much about how to speak about these kinds of assets. They reflect the light nicely? They have a kind of generic fantasy world idea behind them. Buddhas, monks, Norse runic stones. Actually it's pretty weird how diverse they are? Why would these different categories be together in the first place? Very museum-y actually which is funny and appropriate.
 
+![](images/pbr-statues-pack.png)
+
 For now I've just dumbed the available prefabs in the pack into the desert near the player and taken a look at them. They're certainly there, in the desert. It raises a few things:
 
 * Where to put them?
@@ -178,3 +180,55 @@ I *wanted* to use the Cyber Room as my first asset - I love the idea of an inter
 Not really, they're welcome to charge what they want, but I'm saddened I have to say. I was genuinely excited. I guess they're probably repriced everything up to $5.55 by now, which is fine. What the market will bear blah blah.
 
 And anyway there's probably something interesting about the fluctuation of prices and my ability to put particular kinds of work into this game. It's a good thing to run into.
+
+---
+
+# Plinth; label; curation documentation; the desert (12-05-2021 15:15)
+
+## Plinth
+
+Well we now have a plinth. I'm moving achingly slowly on this project but that's okay there's no rush.
+
+I managed to produce the world's simplest (or second simplest after a cube?) plinth that's just an elongated cube with the top face angled up. Attached some text to it, prefabbed it, added plinths for the desert (visible on startup) and the cluster of PRB Statues. Basically it works surprisingly well as it is. You can kiiinda read the text without zooming in and it's nice and crisp with the zoom. Importantly the plinth doesn't look utterly fucking stupid.
+
+![](images/plinth-v1.png)
+
+Also Unity's prefab editing seems to be far better than I remember, with an actual little "blueprint room" where you can edit what's on the thing in peace and quiet and with the knowledge you're specifically editing that thing. May even mean that when I inevitably get sick of my plinth I can easily remodel it without having to replace however many I've already positioned in the scene.
+
+Had a microcosm of my usual problems with Unity as I struggled with Probuilder (but only a bit) and shadow acne (but only a bit). In short, I got in the saddle faster than usual. It helps I'm trying to do nothing even remotely complicated. For some reason the Desert's lighting came with no shadow bias or normal bias which caused the shadow acne. Had to reread Things on the Internet to remember how that particular problem works to find the appropriate window among the millions in the UI.
+
+Anyway, a plinth.
+
+## Label
+
+Having a plinth raises the question of what to write on the plinth. For now we only have
+
+* Asset name (e.g. PBR Statues Pack)
+* Author (e.g. Maksim Bugrimov)
+* Price (e.g. $4.99 every single time)
+
+The most obvious missing piece is a medium statement, which I guess can just be 3D models? Meshes? Terrain and lighting? That kind of thing.
+
+There's also room to make some kind of small curatorial statement about the thing, but perhaps I don't think that's a very good idea when there's likely to be room for only something like 30 words or so.
+
+I'd also quite like to think about linking to the asset on the asset store.
+
+Oh and it probably makes sense to list the purchase date (and time?) to avoid that issue where an asset changes in price. That's a few things. I kind of need to at least try to get this right early on so I don't spend ages repairing 20-40 plinths later on.
+
+## Curation documentation
+
+Having diddled around (productively) I do need to "just start buying work for the exhibition", which implies I need a curation strategy and some way of documenting the process specifically of selection.
+
+I'm tempted to create a separate curation document where I can
+
+a) Go through the 6000ish items in the Asset Store and make notes about the ones that are most interesting and worth including, as well as more general principles that emerge as I go
+
+b) Write specific notes on how the whole thing is being staged and thought about.
+
+In many ways this would be more for me than for anyone hypothetically reading this as it's mostly so I can organize my thoughts about how this thing can be approach.
+
+## The desert
+
+Oh by the way I eyeballed the scale of the desert and it should be pretty good in terms of including 20-40 elements, taking account of the fact that at least one or two may be quite massive (e.g. a medieval village or whatever).
+
+Does it need paths to indicate where stuff is, or some other way to show that, or an actual map you can look at, or should people just wander around in the desert? Gosh there are a lot of decisions to be made.
