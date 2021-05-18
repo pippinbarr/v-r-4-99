@@ -181,6 +181,116 @@ I don't want this to function as a diary, I want it to be a practical document t
   * Antiques is a thing
   * This is a fireplace which is quite fun and cosy
 
+* https://assetstore.unity.com/packages/3d/props/food/apples-perfect-and-bite-664
+  * A bunch of apples
+  * I mean, how the fuck am I going to work with all this? So many things are so funny!
+
+* !! https://assetstore.unity.com/packages/3d/environments/arc-ai37-007-126328
+  * Fancy room
+  * Very realistic etc. pretty good candidate though has a lot of requirements in terms of settings...
+
+* https://assetstore.unity.com/packages/3d/props/ash-tray-cigarette-140172
+  * Ashtray and cigarette
+  * Yes I'm drawn to the really boring and mundane stuff
+
+* https://assetstore.unity.com/packages/3d/vehicles/land/auto-rikshaw-tuk-tuk-low-poly-3d-vehicle-model-13143
+  * Do love a baby taxi
+  * This makes me wonder to what extent this could end up being a more personal exhibition?
+  * Could I tell a story of my own with the curation?
+  * Part of the problem in general is that there's no story to $4.99 just a range
+
+* https://assetstore.unity.com/packages/3d/vehicles/land/auto-rikshaw-tuk-tuk-low-poly-3d-vehicle-model-13143
+  * Autumn Horror Trees
+  * COME ON! That name
+
+* https://assetstore.unity.com/packages/3d/characters/b3-building-interior-exterior-with-furnitures-108359
+  * Pretty fucking serious office building...
+
+* https://assetstore.unity.com/packages/3d/props/interior/baby-chair-169639
+  * And then there's a baby chair, I mean...
+
+* https://assetstore.unity.com/packages/3d/props/clothing/accessories/bandana-face-masks-162265
+  * Bandanas
+  * The head prefab really makes it...
+
+* https://assetstore.unity.com/packages/3d/props/furniture/beige-towel-66181
+  * A beige towel
+  * The ultimate deflation?
+
+* https://assetstore.unity.com/packages/3d/vehicles/sea/boats-pack-1-113473
+  * Boats... another vehicle. Funny in a desert.
+  * This is making me think about how some objects will inherit narrative properties from their situation in the landscape where others probably won't? Notably through a match of realisms? And scale...
+
+* https://assetstore.unity.com/packages/3d/characters/animals/mammals/bottlenose-dolphin-128643
+  * A dolphin
+  * Quite amazing, animated.
+
+* https://assetstore.unity.com/packages/3d/props/boxing-ring-large-179420
+  * A boxing ring
+  * This is making me think about bending $4.99 more toward architecture and implied spaces?
+  * But is that just ANOTHER project that would be really interesting to do with free assets instead?
+  * Diversity still feels like it should be king if my focus is on the price point
+
+* https://assetstore.unity.com/packages/3d/props/industrial/breakable-crate-3905
+  * Breakable crate
+  * Intriguing because the user could actually interact with this one, it's just a collision...
+
+* https://assetstore.unity.com/packages/3d/environments/roadways/bridge-vol-3-156392
+  * A bridge... infrastructure...
+
+* https://assetstore.unity.com/packages/3d/environments/urban/broken-buildings-pack-11578
+  * Broken buildings... quite beautiful...
+
+* https://assetstore.unity.com/packages/3d/props/electronics/broken-modern-tv-141828
+  * Broken tv... nice...
+
+* https://assetstore.unity.com/packages/3d/props/interior/business-chair-156143
+  * A chair
+  * I'm such a sucker for the normie stuff aren't I? Shit.
+
+* https://assetstore.unity.com/packages/3d/environments/cabin-environment-98014
+  * Quite a nice interior cabin
+
+* https://assetstore.unity.com/packages/3d/props/furniture/cabin-interior-household-items-furniture-pack-with-interactive-c-138278
+  * Intriguing with the interactive stuff
+  * Could I activate their specific interactive bit through prox?
+  * Prooooobably not
+
+* !! https://assetstore.unity.com/packages/3d/props/camping-props-pbr-193403
+  * Camping... nice evocation of something to do in the desert...
+
+* !! https://assetstore.unity.com/packages/3d/props/guns/cap-gun-with-arms-38686
+  * This is proooobaby too amazing not to include? Especially pending what the disembodied arm looks like?
+
+* https://assetstore.unity.com/packages/3d/props/cardboard-159860
+  * Some cardboard. I mean, yeah.
+  * There's a lot of this category!
+  * https://assetstore.unity.com/packages/3d/props/furniture/cardboard-boxes-hdrp-compatible-164898
+
+* https://assetstore.unity.com/packages/3d/vehicles/space/cargo-starship-a001-96847
+  * Massive sci fi spaceship? Is it massive???
+
+* https://assetstore.unity.com/packages/3d/vehicles/land/car-parking-66358#content
+  * Parking! A car and garages... that's fun...
+
+* https://assetstore.unity.com/packages/3d/characters/cartoon-chef-149364
+  * Cartoon chef
+  * Cartoon is a big keyword
+  * He can do a flip...
+
+* https://assetstore.unity.com/packages/3d/environments/fantasy/cartoon-style-fantasy-castle-palace-assets-33688
+  * Nice.
+
+* https://assetstore.unity.com/packages/3d/characters/humanoids/casually-dressed-man-129831
+  * Casually Dressed Man
+  * I can't stand how great some of these categories are
+
+* https://assetstore.unity.com/packages/3d/props/exterior/chain-link-fence-29463
+  * Chain Link Fence
+  * Beautiful
+
+To here: https://assetstore.unity.com/?category=3d&price=4-4&orderBy=2&page=10&rows=96
+
 ### Notes on the search
 
 * By starting with ascending order by name I'm immediately seeing packs definitely by the number of things, like 100 hats or 10 spaceships
@@ -194,6 +304,57 @@ I don't want this to function as a diary, I want it to be a practical document t
 * I can imagine going by categories (vehicles, characters, buildings, interiors, etc.) but it gets really arbitrary and false done that way...
 * The advantage to "one per page" or "one every N assets" would just be the ability to know I'm picking one amongst a group? There's just too much interesting stuff. A v r free would be an interesting follow-up by the way. Eh. v r $0 (like a weird prequel movie hehe)
 * FUCK this is challenging.
+* OKAY, part of the problem is that almost EVERYTHING IS AMAZING, there are just so many interesting things to look at in all of this... starts to feel like I could curate just a slice through at one item per page and go ahead with it because there are usually a significant number per page that I find very, very interesting
+* I keep oscillating between "choose per page" and then also "choose per category" and some combination of those. The choose per page strategy risks building a non-diverse set where I get to later pages and am scraping the metaphorical barrel mesh trying to find a specific representative, but the choose per category makes it hard to find things and also probably hard to hit all the categories?
+* Probably makes sense to try to make a list of "what I want" somehow... but some of these things just have real je ne sais quoi about them... half eaten apples? I mean, how can you categorize and pick for something like that? It's just so great?
+* OH SHIT UNITY HAS DEEPER CATEGORIES THAN I THOUGHT?!
+  * Characters
+    * Animals
+      * Birds
+      * Fish
+      * Insects
+      * Mammals
+      * Reptiles
+    * Creatures
+    * Humanoids
+      * Fantasy
+      * Humans
+      * Sci-Fi
+    * Robots
+  * Environments
+    * Dungeons
+    * Fantasy
+    * Historic
+    * Industrial
+    * Landscapes
+    * Roadways
+    * Sci-Fi
+    * Urban
+  * Props
+    * Clothing
+      * Accessories
+      * Armor
+    * Electronics
+    * Exterior
+    * Food
+    * Furniture
+    * Guns
+    * Industrial
+    * Interior
+    * Tools
+    * Weapons
+  * Vegetation
+    * Flowers
+    * Plants
+    * Trees
+  * Vehicles
+    * Air
+    * Land
+    * Sea
+    * Space
+* HOWEVER note that not everything is in one of those categories. How would you find the uncategorized things? Or do I just ignore them? And who defined those categories anyway? Like, you can't just go down to the leaves and get full coverage
+* Gosh though it would be neat to just say "sample every category"? Maybe even two things per category to get a sense of comparison within them?
+* I'm feeling PRETTY SWAYED by that strategy guys...
 
 ## Curatorial heuristics
 
@@ -214,11 +375,15 @@ My plan here is to develop a set of rationales for why one work and not another.
   * Genre of element (object, character, room, terrain, something else...)
   * Animation
   * Natural, fabricated
-
+* There are a lot.
 
 ## Exhibition logistics
 
 My plan here is to develop thoughts about how to position things in the space and why.
+
+* Flatness. One issue is that some objects kind of require a flat space to actually work on. If you have a city street grid, say, you can't just embed the whole thing deep into sand dunes and still feel like you're doing is credit? So do I create cubic-platforms that support something like that and allow it to live its best life?
+* Rooms. For interiors it may be necessary to build walls to enclose them depending on how they're implemented? I really loved my internal vision, at least, of walking into a kind of simple bunker and ending up in some beautiful room.
+* Lighting. Various things look like they have their own lighting settings and preferences (and even rendering pipelines). I can imagine trouble on that front.
 
 ### Didacts
 
