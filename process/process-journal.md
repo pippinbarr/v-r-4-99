@@ -232,3 +232,21 @@ In many ways this would be more for me than for anyone hypothetically reading th
 Oh by the way I eyeballed the scale of the desert and it should be pretty good in terms of including 20-40 elements, taking account of the fact that at least one or two may be quite massive (e.g. a medieval village or whatever).
 
 Does it need paths to indicate where stuff is, or some other way to show that, or an actual map you can look at, or should people just wander around in the desert? Gosh there are a lot of decisions to be made.
+
+
+---
+
+# Curation progress (18-05-2021 16:11)
+
+Well I've made some progress with the whole issue of curation as you can go and see in the curation document just over there. I'm not going to recap everything, but here's the gist plus some extra thoughts (some generated while talking to Jim and Mary about it all)
+
+* Started reviewing the 6000 3D assets at $4.99
+* Got overwhelmed but also excited about all the stuff in like Beige Towel and Casually Dressed Man
+* Eventually discovered the categorizations in the search function on the asset store unfold into roughly 29 distinct categories and decided that's my curatorial direction
+* Will take 2 items from every category, like Noah's ark (funny given it's so... dry in the desert! *rimshot*)
+* Issues around staging big flat assets need to be confronted (platforms?) - the problem with sand dunes
+* Question of a map for the territory
+
+Basically I feel a bit more like I'm in the driver's seat here people, okay? Okay.
+
+Tomorrow I'll begin selecting by category and installing work.
