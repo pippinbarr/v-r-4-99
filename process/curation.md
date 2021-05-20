@@ -366,6 +366,46 @@ Now that I've decided on Unity's category system I'm going to profile the catego
 
 Hmmm, in short I think this is going to be fine, so let's start some reviews and choosings.
 
+### 3D > Animations
+
+* https://assetstore.unity.com/packages/3d/animations/zombie-starter-mocap-animation-pack-61492#content
+  * Weird trying to distinguish this from other sets of models but these ARE nice animations and it's interesting to draw attention to that with the informational plinth?
+* https://assetstore.unity.com/packages/3d/animations/personality-animations-pack-161134
+  * Quite like how utterly basic the base model is here
+  * And the idea of a "confident" walk is neat
+* https://assetstore.unity.com/packages/3d/animations/9t5-gesture-animations-164906
+  * Something a bit mesmerizing about this one too though... hand gestures are interesting
+
+### 3D > Characters
+
+* https://assetstore.unity.com/packages/3d/characters/cartoon-chef-149364
+  * There's something definitely funny about the cartoon chef and his flip
+* https://assetstore.unity.com/packages/3d/characters/pbr-mechanical-robot-character-vol-02-106195
+  * Pretty cool robot... belongs in robots obviously, but here it is
+* https://assetstore.unity.com/packages/3d/characters/creatures/3d-creature-stump-pack-55399
+  * Definitely something funny about a stump pack
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/super-low-poly-dudes-6619
+  * Super low poly dudes
+  * And they dance! Though that may just be mixamo
+* https://assetstore.unity.com/packages/3d/characters/anime-character-code-lanky-contain-vrm-183464
+  * I really like lanky!
+* https://assetstore.unity.com/packages/3d/characters/prisoner-02-107465
+  * OH MAN. Prisoner two.
+  * There's also prisoner one. It would be quite funny to buy both separately and have them separate to point out some interesting pricing things people do?
+
+I'm kind of sold on the prisoner option.
+
+### 3D > Characters > Animals
+
+* https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-v2-144071
+  * Hard to go past an animal pack deluxe you know
+* https://assetstore.unity.com/packages/3d/characters/animals/low-poly-rigged-animals-123656
+  * Another pack but low poly, nice comparison? Even down to the "which animals" thing?
+* https://assetstore.unity.com/packages/3d/characters/animals/trilobite-61308
+  * A trilobyte! By Junnichi Suko though
+
+I think the two packs here are pretty fine
+
 ### 3D > Characters > Animals > Birds
 
 https://assetstore.unity.com/?category=3d%2Fcharacters%2Fanimals%2Fbirds&price=4-4&orderBy=1
@@ -465,6 +505,21 @@ No subcategories for this one, just 259 sweet, sweet creatures. Of which I guess
 
 So I guess I'd lean toward Maksim's dancing cabaret and the Norse Mythological creatures for the scale?
 
+### 3D > Characters > Humanoids
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fhumanoids&price=4-4&orderBy=1&rows=96
+
+* https://assetstore.unity.com/packages/3d/characters/humanoids/male-hair-expansion-pack-cute-series-179582
+  * That's a lot of hair my friend... I like that...
+* https://assetstore.unity.com/packages/3d/characters/humanoids/man-wearing-suit-129895
+  * I do like a man in a suit
+* https://assetstore.unity.com/packages/3d/characters/humanoids/fps-hand-jacket-84616
+  * Just some arms and hands, yes please
+* https://assetstore.unity.com/packages/3d/characters/humanoids/casually-dressed-man-129831
+  * Ah yes, the casually dressed man. I love you.
+
+Some good choices in here... probably casually dressed man and the FPS hands? Or the hair? Hmm.
+
 ### 3D > Characters > Humanoids > Fantasy
 
 https://assetstore.unity.com/?category=3d%2Fcharacters%2Fhumanoids%2Ffantasy&price=4-4&orderBy=1
@@ -541,6 +596,12 @@ https://assetstore.unity.com/?category=3d%2Fcharacters%2Frobots&price=4-4&orderB
   * Pretty nice robot... Marcelo again
 
 Tricky. Perhaps taking a rist on the turrets and their staging as well as a Barrio (like the Brute Robot)?
+
+### 3D > Environments
+
+https://assetstore.unity.com/?category=3d%2Fenvironments&price=4-4&orderBy=1&rows=96
+
+Oh boy.
 
 ### 3D > Environments > Dungeons
 
@@ -710,9 +771,44 @@ https://assetstore.unity.com/?category=3d%2Fenvironments%2Furban&price=4-4&order
 * https://assetstore.unity.com/packages/3d/environments/urban/easy-block-81115
   * So cinema... appealingly partial
 
-In the end I don'tt hink I can go past the Cartoon Town and the Mogadishu Lighthouse
+In the end I don't think I can go past the Cartoon Town and the Mogadishu Lighthouse
 
+### 3D > Props > Clothing > Accessories
 
+https://assetstore.unity.com/?category=3d%2Fprops%2Fclothing%2Faccessories&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/props/clothing/accessories/bandana-face-masks-162265
+  * I don't think I can live without these banadanas modeled on little heads
+* https://assetstore.unity.com/packages/3d/props/clothing/accessories/fantasy-rings-68388
+  * Rings... I'm quite curious about how big or small they are?
+  * Will they need a plinth-cube?
+* https://assetstore.unity.com/packages/3d/props/clothing/accessories/m-27-low-poly-hats-2-93642
+  * Something to be said for just a lot of hats...
+* https://assetstore.unity.com/packages/3d/props/clothing/accessories/ultimate-low-poly-hat-collection-166457
+  * Even more hats
+  * Funny how they can evoke stuff like a graduation
+  * Many hat packs include a headdress which is pretty offensive potentially
+* https://assetstore.unity.com/packages/3d/props/clothing/accessories/cavalier-hat-87705
+  * That's a pretty expensive single hat
+
+I'm leaning rings and bandanas, but I kind of want the storytelling power of hats...
+
+### 3D > Props > Clothing > Armor
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Fclothing%2Farmor&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/props/clothing/armor/slavic-shields-159411
+  * Nice shield, yep
+* https://assetstore.unity.com/packages/3d/props/clothing/armor/ultimate-hat-knight-133217
+  * Solid knight helmet "hat"
+
+By the way there's a small problem with the curatorial strategy of the categories which is all the higher level categories can have things in them that AREN'T in a sub category.
+
+In this case most obviously "Clothing" has a lot more in it than the things represented in Accessories and Armor. It'd be slightly harder to do, but I could also include pieces from categories higher up.
+
+The problem being where does that end? Taken to the extreme it would mean... 44 categories to cover (ever individual category and subcategory), which would be 88 assets (if I were doing two per category still like Noah's ark which I do like) which would cost... US$439 or CAD$540. Which... well it's fine, it's not THAT much money but it's more than I was planning on? But also who fucking cares? But also can I FIT 88 things? Probably right? Or I can make it work right?
+
+Yeah okay I'm sold. Well I'll go an backfill the things that need back filling then I suppose. Don't want to miss genius or otherwise fascinating objects/environments just because the person who made them didn't chuck them in the right place. Though it'll be really hard to find things sometimes that AREN'T in a sub category? There's no negation option that I know of.
 
 ## Curatorial heuristics
 
