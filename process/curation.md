@@ -6,7 +6,7 @@ This is going to be (in theory) a document where I'll write about curation strat
 
 I don't want this to function as a diary, I want it to be a practical document that gathers my thoughts together, okay? Got it, buster?
 
-## Asset review
+## Asset review v.1
 
 ### Purchased
 
@@ -355,6 +355,93 @@ To here: https://assetstore.unity.com/?category=3d&price=4-4&orderBy=2&page=10&r
 * HOWEVER note that not everything is in one of those categories. How would you find the uncategorized things? Or do I just ignore them? And who defined those categories anyway? Like, you can't just go down to the leaves and get full coverage
 * Gosh though it would be neat to just say "sample every category"? Maybe even two things per category to get a sense of comparison within them?
 * I'm feeling PRETTY SWAYED by that strategy guys...
+
+## Asset review v.2
+
+Now that I've decided on Unity's category system I'm going to profile the categories with the aim of choosing two assets from each "leaf". Before I begin, let me look at the availability in the categories, though, and any issues around being forced to buy assets that just won't work together. So, observations...
+
+* Insects (6) and Armor (9) are the smallest categories, but that should still be enough to work with
+* The environments worry me the most, but I can see from Dungeons as an example that they contain plenty of things that aren't giant landscapes that would be hard tow ork with
+* Environments are often "packs" which should be fine too - can show their sample scene or just the modular pieces
+
+Hmmm, in short I think this is going to be fine, so let's start some reviews and choosings.
+
+### 3D > Characters > Animals > Birds
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fanimals%2Fbirds&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/?category=3d%2Fcharacters%2Fanimals%2Fbirds&price=4-4&orderBy=1
+  * A chicken - notably it's "recommended by our users" in the UI, which is no doubt some bullshit marketing, but if ever category happened to have this I could potentially always/usually priortize it?
+  * Is animated etc., will have to think about how to display animations (loop them all, just show the most appropriate one like idling?)
+* OMABU has created some really charming low poly animals, should include one somewhere (but probably only one to avoid repeating creators)
+* !! https://assetstore.unity.com/packages/3d/characters/animals/birds/cartoon-owl-forest-environment-67572
+  * Quite like this one because of the environment - the idea you would buy not just the owl but the place the owl is sitting
+* !! https://assetstore.unity.com/packages/3d/characters/animals/birds/seagull-larus-canus-109558
+  * A seagull that's fairly realistic is intriguing, the idea it could kind of walk around in the space near the plinth would be neat?
+
+I'm leaning cartoon owl and seagull.
+
+### 3D > Characters > Animals > Fish
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fanimals%2Ffish&price=4-4&orderBy=1
+
+* Junnichi Suko makes some pretty nice realistic fish
+* https://assetstore.unity.com/packages/3d/characters/animals/fish/swordfish-pbr-174772
+  * A fancy swordfish too...
+* https://assetstore.unity.com/packages/3d/characters/animals/fish/low-poly-fish-pack-1-177981
+  * A low poly fish pack, nice to pair with a realistic fish?
+
+So leaning toward the pack and then one of the realistic fish... something about the Suko stuff is appealing... a craftsperson of fish...
+
+### 3D > Characters > Animals > Insects
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fanimals%2Finsects&price=4-4&orderBy=1
+
+There are only 6!
+
+* Oh but the butterflies are there yesssssss! https://assetstore.unity.com/packages/3d/characters/animals/insects/73-animated-butterflies-164871
+* https://assetstore.unity.com/packages/3d/characters/animals/insects/egypt-pack-spider-122734
+  * Is it cultural "appropriation" to have something like this as an Egypt Pack?
+  * It's quite a useful one because it has such heavy game implications - like these are enemies in variations that you would fight...
+
+Pending Egypt I guess the two I cite there are my favs...
+
+### 3D > Characters > Animals > Mammals
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fanimals%2Fmammals&price=4-4&orderBy=1
+
+Massive category.
+
+* https://assetstore.unity.com/packages/3d/characters/animals/mammals/cu-cat-10767#content
+  * Cu Cat is funny and Recommended By Our Users.
+  * I like the idea of internet cuteness within this world of games, implies another kind of Nintendogs sort of game
+* OMABU and Suko are both represented heavily here again
+* There's also a Cu Puppy if you like dogs - maybe that's fun as a more direct Nintendogs ref?
+* https://assetstore.unity.com/packages/3d/characters/animals/mammals/whale-simple-3d-model-59288
+  * Hard to go past a whale... makes me think of THHGTTG
+
+Huh - the selection here is actually a bit small because it's so dominated by OMABU... this may be the section I take an OMABU for that reason? So probably an OMABU and the Cu Puppies...
+
+### 3D > Characters > Animals > Reptiles
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fanimals%2Freptiles&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/characters/animals/reptiles/allosaurus-and-skeleton-37858
+  * Recommended
+  * A dinosaur is always good right?
+  * This is Suko though so have to be careful
+* https://assetstore.unity.com/packages/3d/characters/animals/reptiles/t-rex-model-49824
+  * A T-Rex...
+* https://assetstore.unity.com/packages/3d/characters/animals/reptiles/japanese-tree-frog-187864
+  * Nice little Japanese Tree Frog... quite like the understated nature of it...
+* https://assetstore.unity.com/packages/3d/characters/animals/reptiles/raptor-dinosaur-83903
+  * This raptor is pretty nice though... very nicely animated...
+* https://assetstore.unity.com/packages/3d/characters/animals/reptiles/tyrannosaurus-rex-dinosaur-32643
+  * More T-Rexes...
+* Lizards in Leotards is a key creator here
+
+Possible getting two dinosaurs is a way to go, compare the T-Rexes? Alternatively a big and small, with the tree frog and one of the dinos. The raptors are nice too. Some good range of choices available.
+
 
 ## Curatorial heuristics
 
