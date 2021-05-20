@@ -442,6 +442,277 @@ https://assetstore.unity.com/?category=3d%2Fcharacters%2Fanimals%2Freptiles&pric
 
 Possible getting two dinosaurs is a way to go, compare the T-Rexes? Alternatively a big and small, with the tree frog and one of the dinos. The raptors are nice too. Some good range of choices available.
 
+### 3D > Characters > Creatures
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fcreatures&price=4-4&orderBy=1
+
+No subcategories for this one, just 259 sweet, sweet creatures. Of which I guess I'm just picking two. I suddenly wonder whether I could pick representative samples instead, but that's just getting confusing.
+
+* https://assetstore.unity.com/packages/3d/characters/creatures/dark-dragon-123448
+  * The Recommended one is a Dark Dragon
+  * Kind of similar to a dinosaur of course
+  * It's nice enough?
+* There are some fucked up looking packs from Maksim Bugrimov (who made my statues) that make me kind of want to replace the statues...
+  * Oh fuck the video for this one is good https://assetstore.unity.com/packages/3d/characters/creatures/humanoid-creatures-pack-162689
+  * Like an unintentional parody of the Moulin Rouge or something
+  * I may need this
+* https://assetstore.unity.com/packages/3d/characters/creatures/rpg-ogre-pack-pbr-mobile-159080
+  * Nice ogre
+* https://assetstore.unity.com/packages/3d/characters/creatures/mythological-creatures-pack-norse-173135
+  * These are quite interesting creatures - amazing scale variation within the pack...
+* https://assetstore.unity.com/packages/3d/characters/creatures/reaper-boss-pbr-113262
+  * There's quite a lot of really intense kind of Dark Souls stuff around
+
+So I guess I'd lean toward Maksim's dancing cabaret and the Norse Mythological creatures for the scale?
+
+### 3D > Characters > Humanoids > Fantasy
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fhumanoids%2Ffantasy&price=4-4&orderBy=1
+
+Feels kind of similar to the previous set... they were pretty humanoid, but whatever?
+
+* https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/evil-fire-demon-122741
+  * Recommended
+  * More cute than interesting though?
+* https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/voxel-fantasy-characters-pack-92617
+  * A chance to include some voxels
+  * 60+ characters is intriguing
+* Most of these are kind of characters in the sense of a human style enemy, they're quite boring
+* The female characters are pretty embarrassing
+* Lots of repeated companies/creators in this set...
+* https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/medieval-fantasy-ice-king-171297#content
+  * Something like this maybe? Struggling with this...
+
+So yes to the voxels and then unsure on a second one to be honest.
+
+### 3D > Characters > Humanoids > Humans
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Fhumanoids%2Fhumans&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/liam-lowpoly-character-100007
+  * Liam
+  * The Recommended one
+  * I like this idea of characters with names, who are already sort of people?
+  * Almost like hiring an actor
+  * This is by AKISHAQS which made various other things so would need to look out for overlap
+  * They also have other similar ideas, e.g. https://assetstore.unity.com/packages/3d/characters/humanoids/humans/kira-lowpoly-character-100303
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/adam-stylized-lowpoly-male-character-181863
+  * YESSSSSS. Adam. Lumberjacky sexy men.
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/firefighter-in-aluminized-flame-proof-suit-185041
+  * This is quite beautiful thanks to the suit...
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/sport-woman-city-people-184765
+  * Sport Woman City People is pretty funny
+  * There's something funny about this one
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/asobi-chan-ver-shinobi-108111
+  * Definitely something to the anime thing
+
+Leaning silver custome and the lumberjacks
+
+### 3D > Characters > Humanoids > Sci-Fi
+
+* https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/robot-sci-fi-pbr-194064
+  * Pretty fancy robot person
+  * Maybe bordering into sexism? Hard to say
+  * Controversy in the reviews! A claim it's stolen from Apex Legends. Huh. Avoid.
+* These categories are really dominated by a limited set of people
+* https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/scifihuman01-39614
+  * Something slightly arresting about this guy?
+* https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/sci-fi-vr-hand-2-0-188394
+  * Oooohhhh VR hands that's interesting!
+  * I wonder how big they are?
+* https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/cyborg-kamikaze-53637
+  * He looks too hot, could be funny
+
+Leaning toward the scifi human and the hands here.
+
+### 3D > Characters > Robots
+
+https://assetstore.unity.com/?category=3d%2Fcharacters%2Frobots&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/characters/robots/sci-fi-multi-purpose-robot-129301
+  * A multipurpose robot? It's the Recommended
+* https://assetstore.unity.com/packages/3d/characters/robots/low-poly-scifi-turrets-107425#content
+  * I like the idea of the staging this has though the things themselves are pretty unintersting
+  * The imagery on the asset story already presents it like it's in a gallery..
+* Marcelo Barrio is the dominant voice here
+* https://assetstore.unity.com/packages/3d/characters/robots/mech-crawler-107422
+  * Kind of neat?
+* https://assetstore.unity.com/packages/3d/characters/robots/brute-robot-173508
+  * Pretty nice robot... Marcelo again
+
+Tricky. Perhaps taking a rist on the turrets and their staging as well as a Barrio (like the Brute Robot)?
+
+### 3D > Environments > Dungeons
+
+https://assetstore.unity.com/?category=3d%2Fenvironments%2Fdungeons&price=4-4&orderBy=1
+
+This is an area where I worry a touch about things that are too big? But hopefully not?
+
+* https://assetstore.unity.com/packages/3d/environments/dungeons/medieval-dungeon-torture-chamber-131181
+  * A pretty impressiv dungeon. I'm SUPER curious about the issue of getting in and out of a space like this though?
+* The environmental stuff is one of those moments where we kind of get to Kabokov style things though right?
+* https://assetstore.unity.com/packages/3d/environments/dungeons/medieval-treasure-113695
+  * Glinty sparkly treasure...
+* https://assetstore.unity.com/packages/3d/environments/dungeons/mine-92461
+  * Interesting how manyu of these are modular of course
+  * Both takes away from the inherent artistry but is so lovely and practical
+  * This is pretty neat
+* https://assetstore.unity.com/packages/3d/environments/dungeons/new-dungeon-pack-modular-low-poly-174175
+  * Low poly is always fun and worth having?
+* I guess for this category having two actual dungeons makes an amount of sense
+* https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-3d-starter-162930#content
+  * Something pleasingly amateurish here?
+
+This will be hard to choose. I think two dungeons/spaces is the way to go but now I wonder about space in a broader sense actually. I wonder if I can expand my desert?
+
+### 3D> Environments > Fantasy
+
+* This is where my Maksim comes from, so I'd still pick two and forget the statues I think
+* https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-church-69453
+  * Nice church though you can't go in... I like the intermediate resolution
+* https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-windmill-69647
+  * I do like a windmill
+* https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-ruins-pack-12207
+  * Obviously. Yes. We need some ruins and here they are.
+* https://assetstore.unity.com/packages/3d/environments/fantasy/medieval-houses-watermill-and-props-pack-123866
+  * Something interesting here with the mechanism of the watermill
+* https://assetstore.unity.com/packages/3d/environments/fantasy/titan-town-47104
+  * ENORMOUS. Kind of wonder if it's conceivable to transport to my desert
+* https://assetstore.unity.com/packages/3d/environments/fantasy/hq-medieval-forge-150002
+  * YEAH this is pretty nice...
+* https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-town-mobile-19792
+  * Something interesting about mobile-ready
+  * Also more designed for far off camera so interesting to look at them at large scale in FPS...
+
+Hmmm there's some good stuff here really. Leaning to Fantasy Ruins Pack and Medieval Forge I think.
+
+### 3D > Environments > Historic
+
+https://assetstore.unity.com/?category=3d%2Fenvironments%2Fhistoric&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/environments/historic/low-poly-middle-ages-village-141446
+  * Recommended
+  * Fairly cute little village, I do need at least one of these somewhere
+* https://assetstore.unity.com/packages/3d/environments/historic/ancient-pyramid-175410
+  * It's a pretty sweet pyramids
+* https://assetstore.unity.com/packages/3d/environments/historic/old-bell-44843
+  * Pretty funny?
+* https://assetstore.unity.com/packages/3d/environments/historic/wooden-wharf-145588
+  * Wood wharf is nice... Salton Sea vibes?
+* https://assetstore.unity.com/packages/3d/environments/historic/taj-mahal-148702
+  * Speaks to certain kinds of fantasy...
+* https://assetstore.unity.com/packages/3d/environments/historic/old-wild-west-buildings-3d-graphic-files-104077
+  * This is Lucisoft though who made other things I'm considering
+  * Lovely potential though and classic desert material
+* https://assetstore.unity.com/packages/3d/environments/historic/ruined-desert-environment-120275
+  * Interestingly appropriate, possibly should lean this way for some assets?
+* https://assetstore.unity.com/packages/3d/environments/historic/old-farmhouse-34831
+  * Quitebeautiful...
+
+Quite a lot of options here, tough competition. The Pyramid, the Wharf, the Western City, the Desert Ruins
+
+### 3D > Environments > Industrial
+
+https://assetstore.unity.com/?category=3d%2Fenvironments%2Findustrial&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/environments/industrial/hydropower-station-1929
+  * Recommended
+  * Seems like it would be fucking huuuuuge?
+  * Started to ask the question of whether some assets would/should be displayed INSIDE other assets? But I think not?
+  * Broadens out ideas for other projects though...
+* https://assetstore.unity.com/packages/3d/environments/industrial/apocalypse-pack-58281
+  * Oh Maksim, you know me too well. An apocalypse pack.
+  * Don't think this is the best use of his one asset for me though.
+* https://assetstore.unity.com/packages/3d/environments/industrial/trailer-house-165578
+  * Really nice trailer... shame you can't go in though.
+* https://assetstore.unity.com/packages/3d/environments/industrial/abandoned-church-147858
+  * Claims to have an interior which is intriguing
+* https://assetstore.unity.com/packages/3d/environments/industrial/industrial-warehouse-building-167860
+  * Quite appealingly banal
+* https://assetstore.unity.com/packages/3d/environments/industrial/station-v1-103418
+  * Oh I LIKE this one...
+* https://assetstore.unity.com/packages/3d/environments/industrial/hermetic-door-121876
+  * This is poetic for sure...
+
+Some great options in here. Station v1 for sure. Trailer is neat and so is the church and the warehouse... good options here. Hermetic door too. Hmm.
+
+### 3D > Environments > Landscapes
+
+https://assetstore.unity.com/?category=3d%2Fenvironments%2Flandscapes&price=4-4&orderBy=1
+
+This is maybe where I run into trouble if they're all/mostly terrains? There can only be one?
+
+* So I already have Sahara Desert Landscape, meaning I only need one other.
+* https://assetstore.unity.com/?category=3d%2Fenvironments%2Flandscapes&price=4-4&orderBy=1
+  * So Skyboxes are another interesting one though I can't quite get excited about it...
+* https://assetstore.unity.com/packages/3d/environments/landscapes/cavern-entrances-18283
+  * Quite like these cavern entrances
+* https://assetstore.unity.com/packages/3d/environments/landscapes/realistic-stones-and-ground-texture-65301
+  * Stones. I like the idea of buying some stones.
+* https://assetstore.unity.com/packages/3d/environments/landscapes/apocalyptic-desert-low-poly-models-153722#content
+  * I do like an apocalypse
+* https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-landscapes-campsite-124422
+  * This campsite is super charming, this maaaay be the winner?
+
+Campsite I think? That or some rocks.
+
+### 3D > Environments > Roadways
+
+https://assetstore.unity.com/?category=3d%2Fenvironments%2Froadways&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/environments/roadways/bridge-vol-2-156136
+  * Quite like bridges... there are a few others too
+* https://assetstore.unity.com/packages/3d/environments/roadways/traffic-and-roadside-objects-107369
+  * Urban signage and stuff? Quite good...
+
+Maybe it's those two?
+
+### 3D > Environments > Sci-Fi
+
+https://assetstore.unity.com/?category=3d%2Fenvironments%2Fsci-fi&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/environments/sci-fi/animated-sci-fi-doors-53784
+  * Doors might be a theme... I like doors...
+* https://assetstore.unity.com/packages/3d/environments/sci-fi/realistic-animated-sun-prefab-15362
+  * It's the sun! Can it be on the ground? How big is... the sun?
+* https://assetstore.unity.com/packages/3d/environments/sci-fi/space-center-pack-2-0-175735
+  * An entire space centre... soooo weird...
+* https://assetstore.unity.com/packages/3d/environments/sci-fi/crash-landed-ship-57065
+  * Something cool about this.. the implication is crashed and then there's a plinth
+* https://assetstore.unity.com/packages/3d/environments/sci-fi/bio-lab-sci-fi-corridor-69590
+  * A nice corridor... something nice about transitional spaces?
+* https://assetstore.unity.com/packages/3d/environments/sci-fi/moon-base-2030-98937
+  * A moon base! Jesus...
+* https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-modular-interiors-vol-1-116547
+  * More interior tunnels... I like that...
+
+There's a lot to like here... perhaps the crashed ships and one of the corridors? or the moon base?
+
+### 3D > Environments > Urban
+
+https://assetstore.unity.com/?category=3d%2Fenvironments%2Furban&price=4-4&orderBy=1
+
+* https://assetstore.unity.com/packages/3d/environments/urban/simple-town-cartoon-assets-43500
+  * Recommended
+  * I think I already own this?
+  * Yeah I do... so it would be "free", haha. It's a pretty interesting possibility... big though...
+* https://assetstore.unity.com/packages/3d/environments/urban/mogadishu-lighthouse-169674
+  * Fuck me that is specific
+  * Mogadishu Lighthouse
+  * REALLY beautiful. Okay. BUY it.
+* https://assetstore.unity.com/packages/3d/environments/urban/cinema-cartoon-mobile-ready-195284
+  * A cinema is really appealing potentially
+* https://assetstore.unity.com/packages/3d/environments/urban/common-city-lamps-set-63989
+  * City lights... evokes that work wherever it is with all the lights... funny ha ha
+* https://assetstore.unity.com/packages/3d/environments/urban/ozy-little-house-79432
+  * Cozy little hous
+  * I like the idea you could be contemplating living there...
+* https://assetstore.unity.com/packages/3d/environments/urban/easy-block-81115
+  * So cinema... appealingly partial
+
+In the end I don'tt hink I can go past the Cartoon Town and the Mogadishu Lighthouse
+
+
 
 ## Curatorial heuristics
 
