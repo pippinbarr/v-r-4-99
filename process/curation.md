@@ -366,6 +366,29 @@ Now that I've decided on Unity's category system I'm going to profile the catego
 
 Hmmm, in short I think this is going to be fine, so let's start some reviews and choosings.
 
+### 3D
+
+The horror. The overall category has 6019 in it, of which 5734 are covered by subcateogories. Meaning there are an elusive 285 elements in there that aren't represented in any subcategory and that I therefore have never seen. They're going to almost all be miscategorizations, but to be true to this new methodology (unless I just go with dendrites) I need to pick two of the 285 that are ideally sort of "just 3D" and nothing else. FUCK.
+
+Honestly if I can just find two usable things I may cave because this seems like a fucking nightmare.
+
+* Mannequin
+  * https://assetstore.unity.com/packages/3d/female-mannequin-humanoid-rig-87977
+* Cells are pretty cool
+  * https://assetstore.unity.com/packages/3d/biology-cells-pack-97118
+* A bucket
+  * https://assetstore.unity.com/packages/3d/bucket-wood-pbr-4k-56905
+* Film camera
+  * https://assetstore.unity.com/packages/3d/classic-film-camera-58100
+* Trophies! That's nice
+  * https://assetstore.unity.com/packages/3d/low-poly-trophy-pack-75261
+* Arrows pack is fun...
+  * https://assetstore.unity.com/packages/3d/arrows-pack-66609
+* Roadside signs!!!
+  * https://assetstore.unity.com/packages/3d/customizable-roadside-marquee-sign-100458
+
+Okay I could be happy with Cells and Roadside signs for sure. Both pretty fun and weird. Yeah okay that's nice I think. Done.
+
 ### 3D > Animations
 
 * https://assetstore.unity.com/packages/3d/animations/zombie-starter-mocap-animation-pack-61492#content
@@ -601,7 +624,52 @@ Tricky. Perhaps taking a rist on the turrets and their staging as well as a Barr
 
 https://assetstore.unity.com/?category=3d%2Fenvironments&price=4-4&orderBy=1&rows=96
 
-Oh boy.
+Oh boy. This is a tough one because there are 950 in the category, but 637 are accounted for in the subcategories. That said, I should be able to spot novelty?
+
+* https://assetstore.unity.com/packages/3d/environments/traps-and-obstacles-pack-195360
+  * This is cute and really speaks to ideas in design
+* https://assetstore.unity.com/packages/3d/environments/arc-ai37-007-126328
+  * Oh fuck yeah this is that apartment with crazy-ass photorealism..
+  * Other interiors
+  * https://assetstore.unity.com/packages/3d/environments/modern-archviz-sea-view-103092
+  * https://assetstore.unity.com/packages/3d/environments/old-vintage-office-190597
+* https://assetstore.unity.com/packages/3d/environments/lowpoly-gym-environment-192856
+  * Love the thought of a gym in the desert... sweating it out...
+* https://assetstore.unity.com/packages/3d/environments/bblock-61644
+  * Actually something this is a really nice idea because it's a behind the curtain kind of thing... pregame asset...
+  * Other prototyping assets
+  * https://assetstore.unity.com/packages/3d/environments/proprototype-collection-46952
+* https://assetstore.unity.com/packages/3d/environments/beach-shack-with-props-94510
+  * Very pretty...
+* https://assetstore.unity.com/packages/3d/environments/pack-of-two-low-pbr-poly-game-ready-garages-warehouse-169589
+  * Oh I like these a lot, very art world. Just a couple of garages.
+* https://assetstore.unity.com/packages/3d/environments/desert-city-pack-104804#content
+  * A desert city is interesting in a desert?
+* https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064
+  * An entire superstore. Fuuuuuuck...
+  * Another great interior...
+* https://assetstore.unity.com/packages/3d/environments/parking-environment-97785
+  * A parking environment. Fuck me.
+* https://assetstore.unity.com/packages/3d/environments/post-apocalyptic-gas-station-environment-189984
+  * Lovely exterior...
+* https://assetstore.unity.com/packages/3d/environments/industrial-sawmill-modular-pack-175703#content
+  * Unbelievable stuff
+* https://assetstore.unity.com/packages/3d/environments/air-conditioner-props-models-for-enviroment-188903
+  * Ah I really wanted this one but it's in so much competitin...
+* https://assetstore.unity.com/packages/3d/environments/bus-stop-soviet-rusty-102044
+  * Hard not to like a Soviet bus stop...
+
+WELL SHIT. There are just far, far too many beautiful options in this collection. And an interior or a structure with an interior? Tops are
+
+* Prototype: https://assetstore.unity.com/packages/3d/environments/bblock-61644
+* Building: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064
+* Interior: https://assetstore.unity.com/packages/3d/environments/industrial-sawmill-modular-pack-175703#content
+* Interior: https://assetstore.unity.com/packages/3d/environments/old-vintage-office-190597
+
+SHIT. Oh well, it's these two
+
+* Prototype: https://assetstore.unity.com/packages/3d/environments/bblock-61644
+* Building: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064
 
 ### 3D > Environments > Dungeons
 
@@ -773,6 +841,65 @@ https://assetstore.unity.com/?category=3d%2Fenvironments%2Furban&price=4-4&order
 
 In the end I don't think I can go past the Cartoon Town and the Mogadishu Lighthouse
 
+### 3D > Props
+
+https://assetstore.unity.com/?category=3d%2Fprops&price=4-4&orderBy=1&rows=96
+
+Here we go try to find those needles.
+
+* Coffee break! So chill!
+  * https://assetstore.unity.com/packages/3d/props/coffee-break-set-194819
+* Xmas
+  * https://assetstore.unity.com/packages/3d/props/christmas-tree-and-sleigh-126271
+* Bitcoin too good to pass on?
+  * https://assetstore.unity.com/packages/3d/props/crypto-coins-btc-eth-xrp-163341
+* Bleachers very nice
+  * https://assetstore.unity.com/packages/3d/props/tribune-61083
+* Arcade machine
+  * https://assetstore.unity.com/packages/3d/props/arcade-machine-hq-118006
+* Fossils in showcase... quite nice meta presentation
+  * https://assetstore.unity.com/packages/3d/props/interior/fossils-pack-129393
+* Electric piano
+  * https://assetstore.unity.com/packages/3d/props/old-electric-piano-173935
+* Wheels
+  * https://assetstore.unity.com/packages/3d/props/wheel-mini-pack-139261
+* Doors
+  * https://assetstore.unity.com/packages/3d/props/18th-century-door-and-window-pack-4433
+* Scan of a rock
+  * https://assetstore.unity.com/packages/3d/props/physically-accurate-rock-scan-86719
+* Door
+  * https://assetstore.unity.com/packages/3d/props/metal-door-5397#content
+* Low poly rocks
+  * https://assetstore.unity.com/packages/3d/props/low-poly-stone-collection-138121
+* Crates
+  * https://assetstore.unity.com/packages/3d/props/crate-pbr-pack-130292
+* Foil stuff
+  * https://assetstore.unity.com/packages/3d/props/foil-objects-117800
+
+That was exhausting, shit. I think I like
+
+* Metal door https://assetstore.unity.com/packages/3d/props/metal-door-5397#content
+* Fossils https://assetstore.unity.com/packages/3d/props/interior/fossils-pack-129393
+* Bitcoin https://assetstore.unity.com/packages/3d/props/crypto-coins-btc-eth-xrp-163341
+* Bleachers https://assetstore.unity.com/packages/3d/props/tribune-61083
+
+Touch to choose among those though, hmm. Maybe drop the door since we have other doors. Maybe bitcoin isn't THAT funny? or is it? I dunno. Maybe fuck bitcoin? So
+
+* Fossils https://assetstore.unity.com/packages/3d/props/interior/fossils-pack-129393
+* Bleachers https://assetstore.unity.com/packages/3d/props/tribune-61083
+
+### 3D > Props > Clothing
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Fclothing&price=4-4&orderBy=1&rows=96
+
+* https://assetstore.unity.com/packages/3d/props/clothing/umbrella-pro-55277
+  * Can I go past a professional umbrella?
+  * Barely clothing but true it's not clear what else it is
+* https://assetstore.unity.com/packages/3d/props/clothing/clothes-hanger-181682
+  * Oh fuck yeah... pushing toward Duchamp...
+
+Okay well perhaps that's it then...
+
 ### 3D > Props > Clothing > Accessories
 
 https://assetstore.unity.com/?category=3d%2Fprops%2Fclothing%2Faccessories&price=4-4&orderBy=1
@@ -809,6 +936,321 @@ In this case most obviously "Clothing" has a lot more in it than the things repr
 The problem being where does that end? Taken to the extreme it would mean... 44 categories to cover (ever individual category and subcategory), which would be 88 assets (if I were doing two per category still like Noah's ark which I do like) which would cost... US$439 or CAD$540. Which... well it's fine, it's not THAT much money but it's more than I was planning on? But also who fucking cares? But also can I FIT 88 things? Probably right? Or I can make it work right?
 
 Yeah okay I'm sold. Well I'll go an backfill the things that need back filling then I suppose. Don't want to miss genius or otherwise fascinating objects/environments just because the person who made them didn't chuck them in the right place. Though it'll be really hard to find things sometimes that AREN'T in a sub category? There's no negation option that I know of.
+
+### 3D > Props > Electronics
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Felectronics&price=4-4&orderBy=1&rows=96
+
+* https://assetstore.unity.com/packages/3d/props/electronics/mobile-device-58471
+  * Recommended
+  * A phone is pretty funny
+  * Like a tiny monolith in the sand
+* https://assetstore.unity.com/packages/3d/props/electronics/furniture-and-appliances-microwave-195212
+  * A microwave... pretty fun
+  * Also an oven https://assetstore.unity.com/packages/3d/props/electronics/stove-115981
+* https://assetstore.unity.com/packages/3d/props/electronics/pc-keyboard-mouse-70943
+  * Pleasingly self referential
+* https://assetstore.unity.com/packages/3d/props/electronics/vending-machines-59307
+  * Pretty great in a desert
+* Fans
+  * https://assetstore.unity.com/packages/3d/props/electronics/desk-fan-69504
+  * https://assetstore.unity.com/packages/3d/props/electronics/animated-table-fan-30431
+  * Ha ha ha, again
+* https://assetstore.unity.com/packages/3d/props/electronics/retro-computer-set-px2-84195
+  * A whole computer, nice
+* Fridges
+  * https://assetstore.unity.com/packages/3d/props/electronics/vintage-refrigerator-type1-132647
+  * https://assetstore.unity.com/packages/3d/props/electronics/ice-freezer-with-bags-of-ice-52786
+* https://assetstore.unity.com/packages/3d/props/electronics/broken-modern-tv-141828
+  * Still like this broken tv
+
+Hmmm this is a tough one huh.
+
+I think a fridge is pretty neat, and then also a computer?
+
+### 3D > Props > Exterior
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Fexterior&price=4-4&orderBy=1&rows=96
+
+* https://assetstore.unity.com/packages/3d/props/exterior/japanese-torii-gate-157446
+  * Torii gate... references those people
+* Benches, seating
+  * https://assetstore.unity.com/packages/3d/props/exterior/picnic-park-bench-95331
+  * https://assetstore.unity.com/packages/3d/props/exterior/pbr-picnic-table-99130
+* Fencing
+  * https://assetstore.unity.com/packages/3d/props/exterior/chain-link-fence-29463 (lovely)
+* Meter
+  * https://assetstore.unity.com/packages/3d/props/exterior/parking-meter-9730
+* Signage
+  * https://assetstore.unity.com/packages/3d/props/exterior/neon-signs-133404 (evokes that guy)
+* https://assetstore.unity.com/packages/3d/props/exterior/sunbed-prop-pack01-191659
+  * Oh fuck yes, sunbeds
+* Air conditioning
+  * https://assetstore.unity.com/packages/3d/props/exterior/air-conditioner-37139
+* Letter box
+  * https://assetstore.unity.com/packages/3d/props/exterior/old-letter-box-39127
+
+Gosh there's some great ones in here though...
+
+Leaning to sunbeds and fencing I think. (Could drop sunbeds and pick something up in furniture though?)
+
+### 3D > Props > Food
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Ffood&price=4-4&orderBy=1&rows=96
+
+* Fruit
+  * https://assetstore.unity.com/packages/3d/props/food/fruit-pack-80254
+* Food clutter
+  * https://assetstore.unity.com/packages/3d/props/food/food-clutter-138187
+* Fast food
+  * https://assetstore.unity.com/packages/3d/props/food/fast-food-pack-low-poly-series-189176
+* Fucking oatmeal!
+  * https://assetstore.unity.com/packages/3d/props/food/maple-oatmeal-bowl-food-pbr-190700
+* Effectively a still life
+  * https://assetstore.unity.com/packages/3d/props/food/fruit-with-lods-160541
+* REAL vienna rolls...
+  * https://assetstore.unity.com/packages/3d/props/food/vienna-rolls-pack-104100
+
+HMM this is quite hard a gain. I'm leaning Vienna Rolls (for the real world referent) and the Fast Food for a set of foods? Or the still life fruit bowl actually.
+
+### 3D > Props > Furniture
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Ffurniture&price=4-4&orderBy=1&rows=96
+
+* Chairs
+  * https://assetstore.unity.com/packages/3d/props/furniture/chairs-and-tables-vol-1-159649 (dream of fancy furniture)
+* Piano
+  * https://assetstore.unity.com/packages/3d/props/furniture/hq-piano-107271
+* Mattress
+  * https://assetstore.unity.com/packages/3d/props/furniture/old-mattress-66681 ("Post apocalyptic mattress")
+* Art
+  * https://assetstore.unity.com/packages/3d/props/furniture/lowpoly-painting-a02-69810
+* Picnic table
+  * https://assetstore.unity.com/packages/3d/props/furniture/rough-picnic-table-43165
+
+Leaning picnic table and art?
+
+### 3D > Props > Guns
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Fguns&price=4-4&orderBy=1&rows=96
+
+* Packs
+  * https://assetstore.unity.com/packages/3d/props/guns/guns-pack-53729 (5)
+* https://assetstore.unity.com/packages/3d/props/guns/cap-gun-with-arms-38686
+  * My sweet sweet cap gun with arms
+
+Hmmm, surprisingly difficult there actually. I kind of find guns sufficiently uninteresting that I'm not sure how to care or choose. perhaps these two are fine.
+
+### 3D > Props > Industrial
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Findustrial&price=4-4&orderBy=1&rows=96
+
+* Airducts
+  * https://assetstore.unity.com/packages/3d/props/industrial/hq-air-ducts-kit-60303 quite beautiful
+* Shopping cart
+  * https://assetstore.unity.com/packages/3d/props/industrial/shopping-cart-pbr-95421
+* Giant bobbins
+  * https://assetstore.unity.com/packages/3d/props/industrial/big-wood-coil-104142
+* Concrete barrier
+  * https://assetstore.unity.com/packages/3d/props/industrial/concrete-barrier-14-35467
+
+Some beautiful things here. Leaning airducts and shopping cart.
+
+### 3D > Props > Interior
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Finterior&price=4-4&orderBy=1&rows=96
+
+* Heaters
+  * https://assetstore.unity.com/packages/3d/props/interior/fireplace-heaters-pack-144193
+* Dental chair
+  * https://assetstore.unity.com/packages/3d/props/interior/dental-chair-18637 (The gore mode is weird and telling)
+* Binders
+  * https://assetstore.unity.com/packages/3d/props/interior/office-red-file-binder-7672
+* Pin board
+  * https://assetstore.unity.com/packages/3d/props/interior/police-pinboard-111012
+
+Hmmm, kind of a lot of good stuff but also kind of same-y... perhaps
+
+Heaters and Binders?
+
+### 3D > Props > Tools
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Ftools&price=4-4&orderBy=1&rows=96
+
+* Ladders
+  * https://assetstore.unity.com/packages/3d/props/tools/dynamic-ladder-hq-66641
+  * https://assetstore.unity.com/packages/3d/props/tools/ladders-73120
+* Stapler
+  * https://assetstore.unity.com/packages/3d/props/tools/stapler-detailed-with-reflective-bumpmap-6108
+* Crowbar (wink wink)
+  * https://assetstore.unity.com/packages/3d/props/tools/crowbar-pbr-96124
+* Tool sets
+  * https://assetstore.unity.com/packages/3d/props/tools/old-tools-minipack-140824
+  * https://assetstore.unity.com/packages/3d/props/tools/low-poly-tools-pack-84630
+* Wheelbarrow (with sand! oh man)
+  * https://assetstore.unity.com/packages/3d/props/tools/wheelbarrow-hq-114557
+
+Some great, great stuff here. hard not to take crowbar, and then it's between ladders and the wheelbarrows
+
+### 3D > Props > Weapons
+
+https://assetstore.unity.com/?category=3d%2Fprops%2Fweapons&price=4-4&orderBy=1&rows=96
+
+* Toonish
+  * https://assetstore.unity.com/packages/3d/props/weapons/low-poly-cyberpunk-weapons-pack-151188 (Recommended)
+* Bombs
+  * https://assetstore.unity.com/packages/3d/props/weapons/air-bomb-pack-58742
+* Swords
+  * https://assetstore.unity.com/packages/3d/props/weapons/sword-pack-186404
+* Machete with arm
+  * https://assetstore.unity.com/packages/3d/props/weapons/machete-fps-view-15767
+  * Is doing this multiple times too much? It's so funny...
+* Weapons with rack (nice for the display idea)
+  * https://assetstore.unity.com/packages/3d/props/weapons/ancient-weapons-164388
+
+HMM. leaning Machete arm + either bombs or the rack...
+
+### 3D > Vegetation > Flowers
+
+https://assetstore.unity.com/?category=3d%2Fvegetation%2Fflowers&price=4-4&orderBy=1&rows=96
+
+* Recommended wildflowers
+  * https://assetstore.unity.com/packages/3d/vegetation/flowers/wildflowers-set-vol-3-38851
+* Cute low poly
+  * https://assetstore.unity.com/packages/3d/vegetation/flowers/stylised-pots-and-flowers-156583
+
+I guess these are as good as any? Struggling to give a shit on this one, though flowers in the desert has obvious comedy value.
+
+### 3D > Vegetation > Plants
+
+https://assetstore.unity.com/?category=3d%2Fvegetation%2Fplants&price=4-4&orderBy=1&rows=96
+
+* Recommended, very cartoony
+  * https://assetstore.unity.com/packages/3d/vegetation/plants/fantasy-plants-briarthorn-21901
+* Nice bush...
+  * https://assetstore.unity.com/packages/3d/vegetation/plants/pbr-autumn-bush-87734
+* Ground plants
+  * https://assetstore.unity.com/packages/3d/vegetation/plants/ground-plant-pack-28845
+* House plants
+  * https://assetstore.unity.com/packages/3d/vegetation/plants/realistic-plant-vol-2-67582
+* Nice little bush thing
+  * https://assetstore.unity.com/packages/3d/vegetation/plants/realistic-bush-pack-3-savin-juniper-45938
+
+I mean... shrug... any of them are fine...
+
+### 3D > Vegetation > Trees
+
+* Cartoon, recommended
+  * https://assetstore.unity.com/packages/3d/vegetation/trees/cartoon-trees-rocks-bushes-low-poly-vegetation-pack-27060
+* Nice pear tree
+  * https://assetstore.unity.com/packages/3d/vegetation/trees/colorful-pear-tree-72024
+  * Also plum https://assetstore.unity.com/packages/3d/vegetation/trees/colorful-plum-tree-72017
+* Dead trees is funny
+  * https://assetstore.unity.com/packages/3d/vegetation/trees/dead-trees-881
+* Ah yes, horror trees!
+  * https://assetstore.unity.com/packages/3d/vegetation/trees/horror-trees-black-poplar-76906
+  * https://assetstore.unity.com/packages/3d/vegetation/trees/horror-trees-65658
+  * https://assetstore.unity.com/packages/3d/vegetation/trees/autumn-horror-trees-mobile-low-poly-pack-79537
+
+I'd go dead trees and horror trees I think
+
+### 3D > Vegetation
+
+* Some cute potplants
+  * https://assetstore.unity.com/packages/3d/vegetation/plants-pack-177792
+* Realistic grass...
+  * https://assetstore.unity.com/packages/3d/vegetation/realistic-grass-assets-110789
+* Cacti... a bit on the nose?
+  * https://assetstore.unity.com/packages/3d/vegetation/pbr-cactuses-96203
+* Palm trees... same?
+  * https://assetstore.unity.com/packages/3d/vegetation/trees/lp-palm-tree-30273
+
+Hmmm... these are hard to the extent I'd like to avoid things that are obvious categorizable in sub cats... but I guess that's hard to avoid.
+
+I'd go Pot Plants and Grass maybe?
+
+### 3D > Vehicles
+
+https://assetstore.unity.com/?category=3d%2Fvehicles&price=4-4&orderBy=1&rows=96
+
+* Autorickshaws... tribute to a fav
+  * https://assetstore.unity.com/packages/3d/vehicles/auto-rickshaw-low-poly-180893
+* Hubble!
+  * https://assetstore.unity.com/packages/3d/vehicles/space/lod-hubble-telescope-144100
+* Cotton candy!
+  * https://assetstore.unity.com/packages/3d/vehicles/cotton-candy-stand-20295
+* A pack
+  * https://assetstore.unity.com/packages/3d/vehicles/vehicles-151567
+
+Actually a touch tricky... maybe hubble and cotton candy? Or take the autorickshaws for historical significance in my life?
+
+### 3D > Vehicles > Air
+
+https://assetstore.unity.com/?category=3d%2Fvehicles%2Fair&price=4-4&orderBy=1&rows=96
+
+* Recommended little plane
+  * https://assetstore.unity.com/packages/3d/vehicles/air/mobile-planes-small-passenger-plane-56690
+* Airliner
+  * https://assetstore.unity.com/packages/3d/vehicles/air/mobile-planes-airliner-56691
+* Wright glider is funny... history of flight, though it's pretty shit looking
+  * https://assetstore.unity.com/packages/3d/vehicles/air/wright-glider-161270
+* Low poly little plane
+  * https://assetstore.unity.com/packages/3d/vehicles/air/low-poly-light-aircraft-01-167984
+
+Guess I'd lean Airliner and the low poly little? Disappointed there aren't more really big planes.
+
+### 3D > Vehicles > Land
+
+https://assetstore.unity.com/?category=3d%2Fvehicles%2Fland&price=4-4&orderBy=1&rows=96
+
+* Extremely fancy recommended car
+  * https://assetstore.unity.com/packages/3d/vehicles/land/sportscar-57489
+* Golf carts
+  * https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-golf-cart-148729
+* Boat on a trailer is funny
+  * https://assetstore.unity.com/packages/3d/vehicles/land/trailer-boat-168324
+* Tuk tuk
+  * https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-three-wheeled-auto-rickshaw-144062
+* Forklift
+  * https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-forklift-01-161954
+* Tractor
+  * https://assetstore.unity.com/packages/3d/vehicles/land/old-tractor-pbr-72797
+* Bus tour
+  * https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-coach-bus-04-147472
+* Linder is so dominant here
+* City buses
+  * https://assetstore.unity.com/packages/3d/vehicles/land/city-bus-lowpoly3-180106
+* Rusted out car is nice in comparison with fancy car...
+  * https://assetstore.unity.com/packages/3d/vehicles/land/rusty-car-5924
+
+Hmmm, that's a tough one actually. The fancy car is quite beautiful, and then take the city buses? Rusted out car? Yeah I suppose those two. No buses. Shame though.
+
+### 3D > Vehicles > Sea
+
+https://assetstore.unity.com/?category=3d%2Fvehicles%2Fsea&price=4-4&orderBy=1&rows=96
+
+* Recommended
+  * https://assetstore.unity.com/packages/3d/vehicles/sea/fishing-ship-hq-pbr-125632
+* Lifeboat is fun
+  * https://assetstore.unity.com/packages/3d/vehicles/sea/lifeboat-hand-painted-167715
+
+I guess those two are fine?
+
+### 3D > Vehicles > Space
+
+https://assetstore.unity.com/?category=3d%2Fvehicles%2Fspace&price=4-4&orderBy=1&rows=96
+
+* Recommended starfleet pack
+  * https://assetstore.unity.com/packages/3d/vehicles/space/astra-starship-fleet-package-4392
+* Flying saucer, nice tribute to Roswell
+  * https://assetstore.unity.com/packages/3d/vehicles/space/flying-saucer-pbr-107721
+* Giant ship? Not giant? How big is it? Curious...
+  * https://assetstore.unity.com/packages/3d/vehicles/space/cargo-starship-a001-96847
+* Aerospace pack, actual rockets etc. is nicel... educational on scale.
+  * https://assetstore.unity.com/packages/3d/vehicles/space/adonis-aerospace-168963
+
+Tempted by the last two I guess?
+
 
 ## Curatorial heuristics
 
