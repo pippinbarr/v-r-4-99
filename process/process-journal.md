@@ -250,3 +250,20 @@ Well I've made some progress with the whole issue of curation as you can go and 
 Basically I feel a bit more like I'm in the driver's seat here people, okay? Okay.
 
 Tomorrow I'll begin selecting by category and installing work.
+
+---
+
+# Return to the saddle (27-05-2021 10:54)
+
+It's been a little while since I wrote about the project in this diary (and a little while, frankly, since I did any work on it). I did manage to review all $4.99 assets in the 3D category and made selections or near-selections for everything.
+
+So in that sense I'm ready to start genuinely installing things and thus to run into the inevitable problems that actually putting things technically together will generate. My biggest fears are:
+
+* The wavy nature of the desert will interact poorly with a number of larger assets that assume a flat environment (most obviously buildings and cities and rooms etc.)
+* The sheer number of assets will cause unacceptabel lag in the scene when playing
+* Some number of assets will somehow hate each other and cause trouble
+* Some assets will have different requirements for lighting, rendering, post processing, etc. that will cause trouble
+
+And those are just the things I can actually think of! Imagine all the lurking difficulties I can't perceive yet! Yaaaaay!
+
+HOWEVER, the actual process of installation does seem like it can be pretty fun and gratifying. Just to actually see some stuff in the space and build toward a complete experience seems awesome, so no real complaints here. Let's try!
