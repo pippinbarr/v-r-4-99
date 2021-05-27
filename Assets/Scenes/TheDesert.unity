@@ -609,7 +609,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 565743018356944634, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
       propertyPath: m_Text
-      value: '<b>Small Town America - SuperStore</b>
+      value: '<b>Small Town America - Super Store</b>
 
         MultiFlagStudios
 
@@ -955,7 +955,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 565743018356944634, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
       propertyPath: m_Text
-      value: '<b>Small Town America - SuperStore</b>
+      value: '<b>Small Town America - Super Store</b>
 
         MultiFlagStudios
 
