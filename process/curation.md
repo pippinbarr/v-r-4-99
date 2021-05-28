@@ -318,8 +318,8 @@ WELL SHIT. There are just far, far too many beautiful options in this collection
 
 SHIT. Oh well, it's these two
 
-* Prototype: https://assetstore.unity.com/packages/3d/environments/bblock-61644
-* Building: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064
+* ~~Prototype: https://assetstore.unity.com/packages/3d/environments/bblock-61644)~~
+* ~~Building: (https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064)~~
 
 ### 3D > Environments > Dungeons
 
@@ -956,5 +956,11 @@ What shall they have on them?
 * Lighting fucking sucks okay? Serious issue potential around the ways in which the producers of (perhaps mostly the larger?) assets assume the lighting will be handled - e.g. baked/non, relationship to GI, lighting systems embedded in the model, and so on
 * Having partially installed the SuperStore I can at least say it's not a complete disaster? It also raised some interesting questions around things like colliders: the SuperStore doesn't come with them. Initially I'd assumed I would add them because... well because I wanted the store to be "real" in the space, but that's not actually showing you the asset as it is, and in fact the fact it doesn't have colliders is kind of interesting as an experience of the insubstantiality of things? So I put it on a plinth (a big one!) and this means you can walk level with the floor, but that's it. I should probably make some stairs in ProBuilder for the access points. Or rather ramps to be accessible!
 * SuperStore has stuff on the top, do I need a viewing platform?! Wow. That's an interesting one.
+
+## 28-05-2021 13:50
+
+* Started install of BBlock yesterday (position) and finished it today (rotation and grounding). Epic process of looking at and moving every single one of around 680 individual pieces, some of which have really awkward shapes (I'm looking at you skinny shallow ramps!). The end result is honestly quite beautiful though
+* Raises the question of informational plinth because it's such a large area - I've put one on each of the four "side", but it does still feel a bit like someone might not find them?
+* been thinking, too, about map making and read some good ideas online about a special UI layer and associating symbols (UIImage) with that layer and then a sky camera that looks down on them. Should work well. Also still wondering about whether to "tick off" things as you view them, or just let the player/audience remember (probably that one). Wondering about the available resolution on the map and whether it'll display alright if I want to have dots for position and then also at least the title of each work? 88 things is a lot of things...
 
 ---
