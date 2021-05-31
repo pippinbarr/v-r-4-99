@@ -267,3 +267,11 @@ So in that sense I'm ready to start genuinely installing things and thus to run 
 And those are just the things I can actually think of! Imagine all the lurking difficulties I can't perceive yet! Yaaaaay!
 
 HOWEVER, the actual process of installation does seem like it can be pretty fun and gratifying. Just to actually see some stuff in the space and build toward a complete experience seems awesome, so no real complaints here. Let's try!
+
+---
+
+# Ozymandias (31-05-2021 16:23)
+
+A very quick note to say the other day I did position all my prototyping materials from BBlock:
+
+![](images/ozymandias-prototyping-materials.png)
