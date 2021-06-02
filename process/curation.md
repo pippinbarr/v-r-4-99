@@ -968,6 +968,7 @@ What shall they have on them?
 * Added roadside marquee. Kind of disappointed to find that the prefabs don't actually have prewritten text on them, and I don't think it's probably fair to use the sample scenes to take them from? Or is it? Not really? Or IS it? HMMMMMMMMMM. This is an interesting question because with a scene the develop is explicitly trying to show off how cool their asset is, so that's a plus. On the other hand it adds a lot of potential contextual extras... gee I don't actually know what to do with that.
 * In the end I did use the demo versions from the scene for installation - I think it's a more accurate vision of what the developer thinks about the asset, and I think that's okay.
 * Installed low poly campsite. Ran into the issue of its demo scene using an asset for positioning I don't have so had to disable that (feels very much little a dirty little curatorial/installer secret moment). Other than that it works well. Well except the block it's on is super high, so I had to probuild some stairs up to it, but I like that! It's quite beautiful in the end and very chill compared to the desert all around it!
+* While installing the ZOMBIE MoCap asset I ran into the fact that their demo animation controller only included four animations in a cycle which doesn't show off everything the thing can do, so I went in and added every single animation in a cycle. BUT it turns out that as far as I can tell this causes the character to move a bit through the cycle so it won't stay aligned... notably it won't stay with its plinth over time... need some way to correct for that.
 
 ---
 
@@ -976,6 +977,9 @@ What shall they have on them?
 ## 3D
 * √ Biology Cells Pack: https://assetstore.unity.com/packages/3d/biology-cells-pack-97118
 * √ Customizable Roadside Marquee Sign: https://assetstore.unity.com/packages/3d/customizable-roadside-marquee-sign-100458
+
+## 3D > Animations
+* √ ZOMBIE Starter: MoCap Animation Pack: https://assetstore.unity.com/packages/3d/animations/zombie-starter-mocap-animation-pack-61492
 
 ## 3D > Environments
 * √ BBlock: https://assetstore.unity.com/packages/3d/environments/bblock-61644
