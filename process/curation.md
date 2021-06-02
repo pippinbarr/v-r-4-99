@@ -969,6 +969,7 @@ What shall they have on them?
 * In the end I did use the demo versions from the scene for installation - I think it's a more accurate vision of what the developer thinks about the asset, and I think that's okay.
 * Installed low poly campsite. Ran into the issue of its demo scene using an asset for positioning I don't have so had to disable that (feels very much little a dirty little curatorial/installer secret moment). Other than that it works well. Well except the block it's on is super high, so I had to probuild some stairs up to it, but I like that! It's quite beautiful in the end and very chill compared to the desert all around it!
 * While installing the ZOMBIE MoCap asset I ran into the fact that their demo animation controller only included four animations in a cycle which doesn't show off everything the thing can do, so I went in and added every single animation in a cycle. BUT it turns out that as far as I can tell this causes the character to move a bit through the cycle so it won't stay aligned... notably it won't stay with its plinth over time... need some way to correct for that. FIXED: disable Apply Root Motion
+* Added Personality Animations Kit which is wonderfully blunt and also suggests "typical personalities" like "Sneak" and "Waiter". Oh god that's good. The animation names are so good I had to add a specific "from left to right" part to the label to explain what each one is because I don't want the viewer to miss out. It's a case of me explicitly commenting a bit which I don't know if I love, but it's too too beautiful.
 
 ---
 
@@ -980,6 +981,7 @@ What shall they have on them?
 
 ## 3D > Animations
 * √ ZOMBIE Starter: MoCap Animation Pack: https://assetstore.unity.com/packages/3d/animations/zombie-starter-mocap-animation-pack-61492
+* √ Personality Animations Pack: https://assetstore.unity.com/packages/3d/animations/personality-animations-pack-161134
 
 ## 3D > Environments
 * √ BBlock: https://assetstore.unity.com/packages/3d/environments/bblock-61644
