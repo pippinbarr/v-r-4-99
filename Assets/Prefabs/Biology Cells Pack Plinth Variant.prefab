@@ -13,7 +13,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 565743018197928678, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
       propertyPath: m_Name
-      value: Biology Cells Pack Plinth
+      value: Biology Cells Pack Plinth Variant
       objectReference: {fileID: 0}
     - target: {fileID: 565743018197928679, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
       propertyPath: m_Mesh
@@ -22,6 +22,18 @@ PrefabInstance:
     - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
       propertyPath: m_Mesh
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedEdges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedFaces.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedVertices.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
       propertyPath: m_RootOrder
@@ -73,13 +85,16 @@ PrefabInstance:
 
         System-IntegraTech
 
+
+        3D
+
         v1.0
         (6 September 2017)
 
 
-        "This package contains low poly models of cellular
-        biology. Complete cells and separate compartments. Can be used for game or
-        education."
+        <i>This package contains low poly models of
+        cellular biology. Complete cells and separate compartments. Can be used for
+        game or education.</i>
 
 
         $4.99'

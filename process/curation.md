@@ -963,4 +963,22 @@ What shall they have on them?
 * Raises the question of informational plinth because it's such a large area - I've put one on each of the four "side", but it does still feel a bit like someone might not find them?
 * been thinking, too, about map making and read some good ideas online about a special UI layer and associating symbols (UIImage) with that layer and then a sky camera that looks down on them. Should work well. Also still wondering about whether to "tick off" things as you view them, or just let the player/audience remember (probably that one). Wondering about the available resolution on the map and whether it'll display alright if I want to have dots for position and then also at least the title of each work? 88 things is a lot of things...
 
+## 02-06-2021 14:12
+
+* Added roadside marquee. Kind of disappointed to find that the prefabs don't actually have prewritten text on them, and I don't think it's probably fair to use the sample scenes to take them from? Or is it? Not really? Or IS it? HMMMMMMMMMM. This is an interesting question because with a scene the develop is explicitly trying to show off how cool their asset is, so that's a plus. On the other hand it adds a lot of potential contextual extras... gee I don't actually know what to do with that.
+* In the end I did use the demo versions from the scene for installation - I think it's a more accurate vision of what the developer thinks about the asset, and I think that's okay.
+
 ---
+
+# Asset list
+
+## 3D
+* √ Biology Cells Pack: https://assetstore.unity.com/packages/3d/biology-cells-pack-97118
+* √ Customizable Roadside Marquee Sign: https://assetstore.unity.com/packages/3d/customizable-roadside-marquee-sign-100458
+
+## 3D > Environments
+* √ BBlock: https://assetstore.unity.com/packages/3d/environments/bblock-61644
+* √ Small Town America Super Store: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064
+
+## 3D > Environments > Landscape
+* √ Sahara Desert Landscape: https://assetstore.unity.com/packages/3d/environments/landscapes/sahara-desert-landscape-72780
