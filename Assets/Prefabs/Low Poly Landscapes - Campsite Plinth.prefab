@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7202288746466504199
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 565743018197928676, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928678, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Name
+      value: Low Poly Landscapes - Campsite Plinth
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928679, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedEdges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedFaces.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedVertices.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018356944634, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Text
+      value: '<b>Low Poly Landscapes - Campsite</b>
+
+        kawetofe
+
+
+        3D
+        > Environments > Landscapes
+
+        v1.0, 14 August 2018
+
+
+        <i>Put
+        on your tramping boots, pack your backpack and enjoy the wonders of this
+        astonishing low poly landscape. Take a rest at the lovely wooden table benches
+        and try some fried eggs with cheese with your friends. Relax in your tent
+        and count the 8 edged stars at night, but be careful, some adventures may
+        be straight ahead!</i>
+
+
+        $4.99'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}

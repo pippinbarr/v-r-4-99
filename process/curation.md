@@ -967,6 +967,7 @@ What shall they have on them?
 
 * Added roadside marquee. Kind of disappointed to find that the prefabs don't actually have prewritten text on them, and I don't think it's probably fair to use the sample scenes to take them from? Or is it? Not really? Or IS it? HMMMMMMMMMM. This is an interesting question because with a scene the develop is explicitly trying to show off how cool their asset is, so that's a plus. On the other hand it adds a lot of potential contextual extras... gee I don't actually know what to do with that.
 * In the end I did use the demo versions from the scene for installation - I think it's a more accurate vision of what the developer thinks about the asset, and I think that's okay.
+* Installed low poly campsite. Ran into the issue of its demo scene using an asset for positioning I don't have so had to disable that (feels very much little a dirty little curatorial/installer secret moment). Other than that it works well. Well except the block it's on is super high, so I had to probuild some stairs up to it, but I like that! It's quite beautiful in the end and very chill compared to the desert all around it!
 
 ---
 
@@ -982,3 +983,4 @@ What shall they have on them?
 
 ## 3D > Environments > Landscape
 * √ Sahara Desert Landscape: https://assetstore.unity.com/packages/3d/environments/landscapes/sahara-desert-landscape-72780
+* √ Low Poly Landscapes Campsite: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-landscapes-campsite-124422
