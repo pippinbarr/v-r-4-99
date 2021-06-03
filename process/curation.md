@@ -972,6 +972,13 @@ What shall they have on them?
 * Added Personality Animations Kit which is wonderfully blunt and also suggests "typical personalities" like "Sneak" and "Waiter". Oh god that's good. The animation names are so good I had to add a specific "from left to right" part to the label to explain what each one is because I don't want the viewer to miss out. It's a case of me explicitly commenting a bit which I don't know if I love, but it's too too beautiful.
 * Added Prisoner-01 but CANNOT for the life of me purchase Prisoner-02... some kind of credit card issue? Why? It seems too scammy? Which is hilarious because it is kind of scammy to just sell these very basic models with the same animation set separately for $4.99 when you think about the other kinds of packages out there. But that's the point... I want Prisoner-01 and Prisoner-02 side by side with their separate plinths etc. to allow that to be a thought in the overall work.
 
+## 03-06-2021 14:25
+
+* The ongoing saga of Prisoners 01 and 02 has been ridiculous. First of all, Prisoner-02 seemed to be the moment that tripped the switch of fraud detection somewhere in the system (many small purchases on my credit card). I talked to both Unity and RBC support and they both steadfastly insisted it wans't them. In the end I paid with PayPal (same credit card) and bought Prisoner 02 successfully. Given how vaguely scammy the Prisoner assets feel, and the fact they're... prisoners... this seems very appropriate.
+* Prisoner 01 and Prisoner 02 seem to be incompatible?! Importing Prisoner-02 seems to overwrite Prisoner-01's materials, turning him into a silvery Terminator kind of person. Not desirable. Right now I don't know how to stop this from happening.
+* Fixed it eventually - happened because of the naming of the texturing components generically as "albedo" etc. along with the fact that (for some reason) the second prisoner you import will install into the original prisoner's folder (I'm guessing something to do with being from the same dev and they're meant to have a kind of meta folder possibly? Or just a shitty export of the package in general by Astronaut?)
+* An extra funny observation just to wrap up Prisoner talk is that they have separate animation controllers that are essentially identical but slightly not, which means they'll get out of synch which is... funny. Ha ha.
+
 ---
 
 # Asset list
@@ -986,7 +993,7 @@ What shall they have on them?
 
 ### 3D > Animations > Characters
 * √ Prisoner-01: https://assetstore.unity.com/packages/3d/characters/prisoner-01-101465
-* ...
+* √ Prisoner-02: https://assetstore.unity.com/packages/3d/characters/prisoner-02-107465
 
 ## 3D > Environments
 * √ BBlock: https://assetstore.unity.com/packages/3d/environments/bblock-61644
