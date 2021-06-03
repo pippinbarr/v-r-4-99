@@ -978,6 +978,8 @@ What shall they have on them?
 * Prisoner 01 and Prisoner 02 seem to be incompatible?! Importing Prisoner-02 seems to overwrite Prisoner-01's materials, turning him into a silvery Terminator kind of person. Not desirable. Right now I don't know how to stop this from happening.
 * Fixed it eventually - happened because of the naming of the texturing components generically as "albedo" etc. along with the fact that (for some reason) the second prisoner you import will install into the original prisoner's folder (I'm guessing something to do with being from the same dev and they're meant to have a kind of meta folder possibly? Or just a shitty export of the package in general by Astronaut?)
 * An extra funny observation just to wrap up Prisoner talk is that they have separate animation controllers that are essentially identical but slightly not, which means they'll get out of synch which is... funny. Ha ha.
+* Downloaded and imported Deluxe animal pack v2 and have started laying them out, I settled perhaps too quickly on having the pack of animals in a line along a ridge... does that actually make sense? Good use of a ridge I think? And it has a solo-ride Noah's ark vibe to it? From smallest to biggest... I think it's okay. It's really tedious hand positioning thing though. And because these are animals that will be animated etc it's worse because there's more pressure to have them be lifelike and grounded.
+* Hand positioned every animal in Animals deluxe v2 which took what felt like forever, but it does look kind of beautiful.
 
 ---
 
@@ -991,9 +993,13 @@ What shall they have on them?
 * √ ZOMBIE Starter: MoCap Animation Pack: https://assetstore.unity.com/packages/3d/animations/zombie-starter-mocap-animation-pack-61492
 * √ Personality Animations Pack: https://assetstore.unity.com/packages/3d/animations/personality-animations-pack-161134
 
-### 3D > Animations > Characters
+## 3D > Characters
 * √ Prisoner-01: https://assetstore.unity.com/packages/3d/characters/prisoner-01-101465
 * √ Prisoner-02: https://assetstore.unity.com/packages/3d/characters/prisoner-02-107465
+
+## 3D > Characters > Animals
+
+* √ Animal pack deluxe v2: https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-v2-144071
 
 ## 3D > Environments
 * √ BBlock: https://assetstore.unity.com/packages/3d/environments/bblock-61644
