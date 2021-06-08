@@ -977,9 +977,22 @@ What shall they have on them?
 * The ongoing saga of Prisoners 01 and 02 has been ridiculous. First of all, Prisoner-02 seemed to be the moment that tripped the switch of fraud detection somewhere in the system (many small purchases on my credit card). I talked to both Unity and RBC support and they both steadfastly insisted it wans't them. In the end I paid with PayPal (same credit card) and bought Prisoner 02 successfully. Given how vaguely scammy the Prisoner assets feel, and the fact they're... prisoners... this seems very appropriate.
 * Prisoner 01 and Prisoner 02 seem to be incompatible?! Importing Prisoner-02 seems to overwrite Prisoner-01's materials, turning him into a silvery Terminator kind of person. Not desirable. Right now I don't know how to stop this from happening.
 * Fixed it eventually - happened because of the naming of the texturing components generically as "albedo" etc. along with the fact that (for some reason) the second prisoner you import will install into the original prisoner's folder (I'm guessing something to do with being from the same dev and they're meant to have a kind of meta folder possibly? Or just a shitty export of the package in general by Astronaut?)
+
+![](images/prisoners-texture-problem.png)
+
 * An extra funny observation just to wrap up Prisoner talk is that they have separate animation controllers that are essentially identical but slightly not, which means they'll get out of synch which is... funny. Ha ha.
 * Downloaded and imported Deluxe animal pack v2 and have started laying them out, I settled perhaps too quickly on having the pack of animals in a line along a ridge... does that actually make sense? Good use of a ridge I think? And it has a solo-ride Noah's ark vibe to it? From smallest to biggest... I think it's okay. It's really tedious hand positioning thing though. And because these are animals that will be animated etc it's worse because there's more pressure to have them be lifelike and grounded.
 * Hand positioned every animal in Animals deluxe v2 which took what felt like forever, but it does look kind of beautiful.
+
+## 08-06-2021 11:34
+
+* Finally placed all the low poly animals facing the others on the same ridge of a dune and it looks: gorgeous. I think this was a good idea thankfully. Now on with the show.
+* Installed a cartoon owl and it is fucking great. It flew around! Had no expectation of that and it was pretty spellbinding. Also particle effects in the presentation of it. Was worrying it was going to be awkward but it's great.
+* Can confirm the seagull has been a FUCKING NIGHTMARE. It's quite a simple object on face value, but it's equipped with the ability to fly, eat, attack, walk around. However, in the demo scene this is to be controlled by the player which... well I was thinking it made more sense to be controlled by the game with some shitty AI. But try as I might I haven't been able to make that work.
+* Further, I haven't ever been able to get it to fly or take off or anything.
+* As I was typing the first point about the seagull I suddenly wonder if it does actually make sense to let the player control the seagull if they're near the plinth?! I'm less sure about the flying but maybe the basics of walking it around? If I could reserve the arrow keys for the seagull and wasd for the player then you could stop at the plinth, read the instructions, and then walk the seagull around yourself a bit?! And make it eat and so on?! (But not fly? Flying is too crazy?) Would it be a bit like one of those flipping dogs where it would be on a plinth with a little rim around it to make sure the seagull can't get off... yeah gee...
+* Well that's worth trying. Nope not really! Gets very fiddly because you do need a way to swap between Input meanings (since both my first person controller and the bird controller expect to use the default Axes defined in the Input component). You'd need some kind of complicated message on the plinth telling them to hit some specific key to toggle seagull versus player and it's just not what I want. Why the sweet fuck can't the thing at least walk in a reliable CIRCLE and pick the ground occasionally? THAT IS ALL I WANT FROM IT! I can even live without the flying part which sucks but seems out of reach. GOD DAMN!
+* So currently the seagull is feeling like my first major failure... depressing. I should probably move on and install something else less finnicky? Bodes ill though...
 
 ---
 
@@ -998,12 +1011,59 @@ What shall they have on them?
 * √ Prisoner-02: https://assetstore.unity.com/packages/3d/characters/prisoner-02-107465
 
 ## 3D > Characters > Animals
-
 * √ Animal pack deluxe v2: https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-v2-144071
+* √ Low poly rigged animals: https://assetstore.unity.com/packages/3d/characters/animals/low-poly-rigged-animals-123656
+
+## 3D > Characters > Animals > Birds
+* √ Cartoon owl forest environments: https://assetstore.unity.com/packages/3d/characters/animals/birds/cartoon-owl-forest-environment-67572
+* Seagull: https://assetstore.unity.com/packages/3d/characters/animals/birds/seagull-larus-canus-109558
+
+## 3D > Characters > Animals > Fish
+* https://assetstore.unity.com/packages/3d/characters/animals/fish/swordfish-pbr-174772
+* https://assetstore.unity.com/packages/3d/characters/animals/fish/low-poly-fish-pack-1-177981
+
+### 3D > Characters > Animals > Insects
+* https://assetstore.unity.com/packages/3d/characters/animals/insects/73-animated-butterflies-164871
+* https://assetstore.unity.com/packages/3d/characters/animals/insects/egypt-pack-spider-122734
+
+### 3D > Characters > Animals > Mammals
+* Find an OMABU mammal
+* Cu-puppies
+
+### 3D > Characters > Animals > Reptiles
+* https://assetstore.unity.com/packages/3d/characters/animals/reptiles/t-rex-model-49824
+* https://assetstore.unity.com/packages/3d/characters/animals/reptiles/tyrannosaurus-rex-dinosaur-32643
+
+### 3D > Characters > Creatures
+* https://assetstore.unity.com/packages/3d/characters/creatures/humanoid-creatures-pack-162689
+* https://assetstore.unity.com/packages/3d/characters/creatures/mythological-creatures-pack-norse-173135
+
+### 3D > Characters > Humanoids
+* https://assetstore.unity.com/packages/3d/characters/humanoids/fps-hand-jacket-84616
+* https://assetstore.unity.com/packages/3d/characters/humanoids/casually-dressed-man-129831
+
+### 3D > Characters > Humanoids > Fantasy
+* https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/voxel-fantasy-characters-pack-92617
+* https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/medieval-fantasy-ice-king-171297#content
+
+### 3D > Characters > Humanoids > Humans
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/firefighter-in-aluminized-flame-proof-suit-185041
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/adam-stylized-lowpoly-male-character-181863
+
+### 3D > Characters > Humanoids > Sci-Fi
+* https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/scifihuman01-39614
+* https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/sci-fi-vr-hand-2-0-188394
+
+### 3D > Characters > Robots
+* https://assetstore.unity.com/packages/3d/characters/robots/brute-robot-173508
+* ??? https://assetstore.unity.com/packages/3d/characters/robots/low-poly-scifi-turrets-107425#content
 
 ## 3D > Environments
 * √ BBlock: https://assetstore.unity.com/packages/3d/environments/bblock-61644
 * √ Small Town America Super Store: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064
+
+### 3D > Environments > Dungeons
+* Needs thinking
 
 ## 3D > Environments > Landscape
 * √ Sahara Desert Landscape: https://assetstore.unity.com/packages/3d/environments/landscapes/sahara-desert-landscape-72780
