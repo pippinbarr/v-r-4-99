@@ -275,3 +275,17 @@ HOWEVER, the actual process of installation does seem like it can be pretty fun 
 A very quick note to say the other day I did position all my prototyping materials from BBlock:
 
 ![](images/ozymandias-prototyping-materials.png)
+
+---
+
+# Returning (30-06-2021 11:03)
+
+Hi there, it's been a while since I actually did much, and of course the main line of commentary right now is over in the [Curation](./curation.md) document, but I'm attempting a return! I have opened Unity! I am looking at the seagull's plinth, which was the last task I managed to complete before life took over savagely in the form of... what? What happened around the 8th of June? Well we were writing the Design Issues paper, that's probably what it was. Followed by VOLUPTAS.
+
+The only kind of noteworthy thing I can report here is that I'm running into potential trouble being reimbursed for the materials I'm getting from the Asset Store via my grant. There's policy at the university around software needing to be pre-approved by IITS (the IT people of the university) and I'm in the middle of trying to argue it's kind of ridiculous in my case.
+
+At any rate, I'm just going to keep working away on this game, finances be damned! (Though it's funny there have now been two external money-things that have interrupted work a bit, the credit card fiasco and now the reimbursement grant stuff.)
+
+Oh and I'm thinking I'll write an essay about this game and its process and its focus on MONEY for the book! Let's see how that goes too.
+
+Anyway, it'll be nice to be back to making something, that's for sure.
