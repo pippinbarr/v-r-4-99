@@ -113,5 +113,9 @@ What shall they have on them?
 
 * Made a shitty informational wall with a door in it just as a placeholder to remind me that I need to make that aspect of the game at some point. Struggled with ProBuilder and snapping, so it's pretty goddamn horrible, but that's la vie. Main thing is it's there to remind.
 * Added the Egypt Spiders finally deciding they're definitely in after the little cultural appropriation question etc. They look pretty cool. The demo they come with is boring (just controlling them moving around) and in the end I kind of posed them coming over a dune toward the insects which is quite pleasing. It was a real snap decision though and does make me question how well I'm thinking about positioning as a part of this. I just mostly feel like I can't afford to take it too, too seriously or I will never get this thing made. To some extent so long as the player can see things and know which thing they are, my job is done?
+* Added the Cu Puppies and they are FUCKING TINY. I kind of cannot believe just how small they are. It's the first instance, maybe of something having a scale that doesn't make sense to me, and I like that. They're miniscule, more like insects. Add to this that I also added Oscar the Dog from Omabuarts and he is BIG, kind of like a moving balloon animal.
+* Fun that both dog types have a sets of animations they rush through, which evokes that sense of a dog that's eager to please. I like these additional moments of sigification outside the basic "this is what you're paying for".
+* The Oscar dog comes with multiple LODs which, I mean I don't 100% understand, but essentially versions of the model that are simplified based on how far away it's going to be viewed from. It's nice to present these together because it gives a sense to the viewer of that particular technology and, therefore, of that particular technology having value.
+* So, puppy power.
 
 ---

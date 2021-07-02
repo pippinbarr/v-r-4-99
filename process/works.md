@@ -34,8 +34,8 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 * √ https://assetstore.unity.com/packages/3d/characters/animals/insects/egypt-pack-spider-122734
 
 ### 3D > Characters > Animals > Mammals
-* Find an OMABU mammal
-* Cu-puppies
+* √ https://assetstore.unity.com/packages/3d/characters/animals/mammals/oscar-the-dog-quirky-series-119972
+* √ https://assetstore.unity.com/packages/3d/characters/animals/mammals/cu-puppy-17183
 
 ### 3D > Characters > Animals > Reptiles
 * https://assetstore.unity.com/packages/3d/characters/animals/reptiles/t-rex-model-49824
