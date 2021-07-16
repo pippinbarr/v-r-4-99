@@ -118,4 +118,8 @@ What shall they have on them?
 * The Oscar dog comes with multiple LODs which, I mean I don't 100% understand, but essentially versions of the model that are simplified based on how far away it's going to be viewed from. It's nice to present these together because it gives a sense to the viewer of that particular technology and, therefore, of that particular technology having value.
 * So, puppy power.
 
+## 16-07-2021 12:26
+
+* Installed exactly one asset, which was T-Rex Model. There turned out to be five prefabs in different sizes and textures, so they're in a circle around the plinth. More and more I find I'm reaching for interesting ways to stage the models to avoid things feeling ultra-repetitive, but I kind of wonder if that's a good idea. In this instance I thought it would be interesting to have to walk into the centre to see them. I also for the moment haven't linked up the animation controller to show every animation state, they're just idling, swinging their tails, which is quite nice.
+
 ---
