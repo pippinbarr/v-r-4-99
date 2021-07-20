@@ -39,7 +39,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 
 ### 3D > Characters > Animals > Reptiles
 * √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/t-rex-model-49824
-* https://assetstore.unity.com/packages/3d/characters/animals/reptiles/tyrannosaurus-rex-dinosaur-32643
+* √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/tyrannosaurus-rex-dinosaur-32643
 
 ### 3D > Characters > Creatures
 * https://assetstore.unity.com/packages/3d/characters/creatures/humanoid-creatures-pack-162689

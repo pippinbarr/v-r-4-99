@@ -122,4 +122,9 @@ What shall they have on them?
 
 * Installed exactly one asset, which was T-Rex Model. There turned out to be five prefabs in different sizes and textures, so they're in a circle around the plinth. More and more I find I'm reaching for interesting ways to stage the models to avoid things feeling ultra-repetitive, but I kind of wonder if that's a good idea. In this instance I thought it would be interesting to have to walk into the centre to see them. I also for the moment haven't linked up the animation controller to show every animation state, they're just idling, swinging their tails, which is quite nice.
 
+## 19-07-2021 20:32
+
+* Managed to get "Tyrannosaurus rex dinosaur" installed. It's quite old (2015) and uses the legacy animation system and was set to default to "stand still" which is no animation at all. Had to load their scene and try to figure out a bit of how to make it play any animation, but did get the idle animation going, which matches the previous T-Rex.
+* It's pretty underwhelming overall? But it's totally fine. I think there's merit to comparing the two across their year, animation, texturing, etc. There's a funny thing there where there are "more" prefabs of the other t-rex, so is it more valuable? Technically yes? More textures, more content... value value
+
 ---
