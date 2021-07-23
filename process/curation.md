@@ -127,4 +127,7 @@ What shall they have on them?
 * Managed to get "Tyrannosaurus rex dinosaur" installed. It's quite old (2015) and uses the legacy animation system and was set to default to "stand still" which is no animation at all. Had to load their scene and try to figure out a bit of how to make it play any animation, but did get the idle animation going, which matches the previous T-Rex.
 * It's pretty underwhelming overall? But it's totally fine. I think there's merit to comparing the two across their year, animation, texturing, etc. There's a funny thing there where there are "more" prefabs of the other t-rex, so is it more valuable? Technically yes? More textures, more content... value value
 
----
+## 22-07-2021 21:04
+
+* Installing Maksim Bugrimov's monster pack, which attracted me from the first moments I saw it as a kind of monster cabaret thanks to the synched animations. I've now seen a ton of synched animations, of course, so it's less spectacular, but I do think I still like it none the less. It's huge though, almost half a GB? I mean... will this game end up breaking some limit and being impossible to actually build?
+* Okay, having actually watched them do their thing they are GREAT. They're like male strippers? Like a Magic Mike kind of thing? I love them very much.
