@@ -43,6 +43,9 @@ What shall they have on them?
 * Author of the work
 * Category of the work (Is this like a medium? e.g. 3D > Environments > Landscapes)
 * Price of the work ($4.99, duh)
+* Size of the work (MB)
+* Creation time/date of the work
+* Version of the work
 * Purchase date/time of the work
 * **Maybe** some kind of further information?
 * **Ideally** some link to the official asset page

@@ -42,7 +42,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 * √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/tyrannosaurus-rex-dinosaur-32643
 
 ### 3D > Characters > Creatures
-* https://assetstore.unity.com/packages/3d/characters/creatures/humanoid-creatures-pack-162689
+* √ https://assetstore.unity.com/packages/3d/characters/creatures/humanoid-creatures-pack-162689
 * https://assetstore.unity.com/packages/3d/characters/creatures/mythological-creatures-pack-norse-173135
 
 ### 3D > Characters > Humanoids
@@ -400,7 +400,7 @@ https://assetstore.unity.com/?category=3d%2Fenvironments%2Fdungeons&price=4-4&or
 This is an area where I worry a touch about things that are too big? But hopefully not?
 
 * https://assetstore.unity.com/packages/3d/environments/dungeons/medieval-dungeon-torture-chamber-131181
-  * A pretty impressiv dungeon. I'm SUPER curious about the issue of getting in and out of a space like this though?
+  * A pretty impressive dungeon. I'm SUPER curious about the issue of getting in and out of a space like this though?
 * The environmental stuff is one of those moments where we kind of get to Kabokov style things though right?
 * https://assetstore.unity.com/packages/3d/environments/dungeons/medieval-treasure-113695
   * Glinty sparkly treasure...
