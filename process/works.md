@@ -43,7 +43,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 
 ### 3D > Characters > Creatures
 * √ https://assetstore.unity.com/packages/3d/characters/creatures/humanoid-creatures-pack-162689
-* https://assetstore.unity.com/packages/3d/characters/creatures/mythological-creatures-pack-norse-173135
+* √ https://assetstore.unity.com/packages/3d/characters/creatures/mythological-creatures-pack-norse-173135
 
 ### 3D > Characters > Humanoids
 * https://assetstore.unity.com/packages/3d/characters/humanoids/fps-hand-jacket-84616

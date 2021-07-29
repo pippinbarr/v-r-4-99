@@ -134,3 +134,9 @@ What shall they have on them?
 
 * Installing Maksim Bugrimov's monster pack, which attracted me from the first moments I saw it as a kind of monster cabaret thanks to the synched animations. I've now seen a ton of synched animations, of course, so it's less spectacular, but I do think I still like it none the less. It's huge though, almost half a GB? I mean... will this game end up breaking some limit and being impossible to actually build?
 * Okay, having actually watched them do their thing they are GREAT. They're like male strippers? Like a Magic Mike kind of thing? I love them very much.
+
+## 28-07-2021 20:44
+
+* I failed to write about the fact I partially installed the Mythological Creatures Pack - Norse a couple of days back. That involved mostly just the process of buying them and popping them in and realizing they're not animated which was quite weirdly disappointing - I've already started to develop certain expectations about what a model pack might involved, though I do see that they include the rigging for standard humanoid animation, which I suppose it close to being as good. But of course because of the way I'm working, I don't add anything like that, so they're just like statues in the sand.
+* This evening I moved them into a configuration with the Cabaret/Chippendale Monster Pack which are dancing up a storm. Kind of an interesting confrontation? Like an impassive sports team watching the other team do some kind of dance (or even a haka, though it doesn't have quite that spirit? Though maybe it kiiind of does because a lot of the animations are attack animations?)
+* Also there's an "elephant god" in this Norse mythology pack? Seems legit...
