@@ -1,81 +1,5 @@
 # Works
 
-This is where I'll straightforwardly list the pieces that are going into the game.
-
-
-# Asset list
-
-## 3D
-* √ Biology Cells Pack: https://assetstore.unity.com/packages/3d/biology-cells-pack-97118
-* √ Customizable Roadside Marquee Sign: https://assetstore.unity.com/packages/3d/customizable-roadside-marquee-sign-100458
-
-## 3D > Animations
-* √ ZOMBIE Starter: MoCap Animation Pack: https://assetstore.unity.com/packages/3d/animations/zombie-starter-mocap-animation-pack-61492
-* √ Personality Animations Pack: https://assetstore.unity.com/packages/3d/animations/personality-animations-pack-161134
-
-## 3D > Characters
-* √ Prisoner-01: https://assetstore.unity.com/packages/3d/characters/prisoner-01-101465
-* √ Prisoner-02: https://assetstore.unity.com/packages/3d/characters/prisoner-02-107465
-
-## 3D > Characters > Animals
-* √ Animal pack deluxe v2: https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-v2-144071
-* √ Low poly rigged animals: https://assetstore.unity.com/packages/3d/characters/animals/low-poly-rigged-animals-123656
-
-## 3D > Characters > Animals > Birds
-* √ Cartoon owl forest environments: https://assetstore.unity.com/packages/3d/characters/animals/birds/cartoon-owl-forest-environment-67572
-* √ Seagull: https://assetstore.unity.com/packages/3d/characters/animals/birds/seagull-larus-canus-109558
-
-## 3D > Characters > Animals > Fish
-* √ https://assetstore.unity.com/packages/3d/characters/animals/fish/swordfish-pbr-174772
-* √ https://assetstore.unity.com/packages/3d/characters/animals/fish/low-poly-fish-pack-1-177981
-
-### 3D > Characters > Animals > Insects
-* √ https://assetstore.unity.com/packages/3d/characters/animals/insects/73-animated-butterflies-164871
-* √ https://assetstore.unity.com/packages/3d/characters/animals/insects/egypt-pack-spider-122734
-
-### 3D > Characters > Animals > Mammals
-* √ https://assetstore.unity.com/packages/3d/characters/animals/mammals/oscar-the-dog-quirky-series-119972
-* √ https://assetstore.unity.com/packages/3d/characters/animals/mammals/cu-puppy-17183
-
-### 3D > Characters > Animals > Reptiles
-* √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/t-rex-model-49824
-* √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/tyrannosaurus-rex-dinosaur-32643
-
-### 3D > Characters > Creatures
-* √ https://assetstore.unity.com/packages/3d/characters/creatures/humanoid-creatures-pack-162689
-* √ https://assetstore.unity.com/packages/3d/characters/creatures/mythological-creatures-pack-norse-173135
-
-### 3D > Characters > Humanoids
-* √ https://assetstore.unity.com/packages/3d/characters/humanoids/fps-hand-jacket-84616
-* https://assetstore.unity.com/packages/3d/characters/humanoids/casually-dressed-man-129831
-
-### 3D > Characters > Humanoids > Fantasy
-* https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/voxel-fantasy-characters-pack-92617
-* https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/medieval-fantasy-ice-king-171297#content
-
-### 3D > Characters > Humanoids > Humans
-* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/firefighter-in-aluminized-flame-proof-suit-185041
-* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/adam-stylized-lowpoly-male-character-181863
-
-### 3D > Characters > Humanoids > Sci-Fi
-* https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/scifihuman01-39614
-* https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/sci-fi-vr-hand-2-0-188394
-
-### 3D > Characters > Robots
-* https://assetstore.unity.com/packages/3d/characters/robots/brute-robot-173508
-* ??? https://assetstore.unity.com/packages/3d/characters/robots/low-poly-scifi-turrets-107425#content
-
-## 3D > Environments
-* √ BBlock: https://assetstore.unity.com/packages/3d/environments/bblock-61644
-* √ Small Town America Super Store: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064
-
-### 3D > Environments > Dungeons
-* Needs thinking
-
-## 3D > Environments > Landscape
-* √ Sahara Desert Landscape: https://assetstore.unity.com/packages/3d/environments/landscapes/sahara-desert-landscape-72780
-* √ Low Poly Landscapes Campsite: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-landscapes-campsite-124422
-
 ---
 
 ## Asset review v.2 (see end for v.1)
@@ -263,7 +187,7 @@ https://assetstore.unity.com/?category=3d%2Fcharacters%2Fhumanoids&price=4-4&ord
 * https://assetstore.unity.com/packages/3d/characters/humanoids/casually-dressed-man-129831
   * Ah yes, the casually dressed man. I love you.
 
-Some good choices in here... probably casually dressed man and the FPS hands? Or the hair? Hmm.
+Some good choices in here... probably casually dressed man and the FPS hands? Or the hair? Hmm.`
 
 ### 3D > Characters > Humanoids > Fantasy
 
