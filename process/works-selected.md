@@ -157,29 +157,72 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 
 ## 3D > Props > Guns
 
+* Guns Pack: https://assetstore.unity.com/packages/3d/props/guns/guns-pack-53729 (5)
+* Cap Gun with Arms: https://assetstore.unity.com/packages/3d/props/guns/cap-gun-with-arms-38686
+
 ## 3D > Props > Industrial
+
+* HQ Air Ducts Kit: https://assetstore.unity.com/packages/3d/props/industrial/hq-air-ducts-kit-60303
+* Shopping Cart PBR: https://assetstore.unity.com/packages/3d/props/industrial/shopping-cart-pbr-95421
 
 ## 3D > Props > Interior
 
+* ~~Low poly detective's office: https://assetstore.unity.com/packages/3d/props/interior/low-poly-detective-s-office-157543~~
+  * Currently failing on loading the demo scene, may need a refund
+* Safe (With Money, Gold, Silver): https://assetstore.unity.com/packages/3d/props/interior/safe-with-money-gold-silver-210155
+* Office: https://assetstore.unity.com/packages/3d/props/interior/office-131695
+
 ## 3D > Props > Tools
+
+* Ladders: https://assetstore.unity.com/packages/3d/props/tools/ladders-73120
+* A wrench: https://assetstore.unity.com/packages/3d/props/tools/a-wrench-119301
 
 ## 3D > Props > Weapons
 
+* Machete (FPS view): https://assetstore.unity.com/packages/3d/props/weapons/machete-fps-view-15767
+* Air Bomb Pack: https://assetstore.unity.com/packages/3d/props/weapons/air-bomb-pack-58742
+
 ## 3D > Vegetation
+
+* Plants pack: https://assetstore.unity.com/packages/3d/vegetation/plants-pack-177792
+* Realistic Grass Asstets: https://assetstore.unity.com/packages/3d/vegetation/realistic-grass-assets-110789
 
 ## 3D > Vegetation > Flowers
 
+* Wildflowers Set Vol.3: https://assetstore.unity.com/packages/3d/vegetation/flowers/wildflowers-set-vol-3-38851
+* Stylized Pots and Flowers: https://assetstore.unity.com/packages/3d/vegetation/flowers/stylised-pots-and-flowers-156583
+
 ## 3D > Vegetation > Plants
+
+* Fantasy Plants - Briarthorn: https://assetstore.unity.com/packages/3d/vegetation/plants/fantasy-plants-briarthorn-21901
+* PBR Autumn Bush: https://assetstore.unity.com/packages/3d/vegetation/plants/pbr-autumn-bush-87734
 
 ## 3D > Vegetation > Trees
 
+* Dead Trees: https://assetstore.unity.com/packages/3d/vegetation/trees/dead-trees-881
+* Horror Trees - Black Poplar: https://assetstore.unity.com/packages/3d/vegetation/trees/horror-trees-black-poplar-76906
+
 ## 3D > Vehicles
+
+* LOD Hubble Telescope: https://assetstore.unity.com/packages/3d/vehicles/space/lod-hubble-telescope-144100
+* Cotton Candy: https://assetstore.unity.com/packages/3d/vehicles/cotton-candy-stand-20295
 
 ## 3D > Vehicles > Air
 
+* Low Poly Light Aircraft 01: https://assetstore.unity.com/packages/3d/vehicles/air/low-poly-light-aircraft-01-167984
+* Mobile Planes: Airliner: https://assetstore.unity.com/packages/3d/vehicles/air/mobile-planes-airliner-56691
+
 ## 3D > Vehicles > Land
+
+* Rusty Car: https://assetstore.unity.com/packages/3d/vehicles/land/rusty-car-5924
+* Sportscar: https://assetstore.unity.com/packages/3d/vehicles/land/sportscar-57489
 
 ## 3D > Vehicles > Sea
 
+* Fishing Ship HQ PBR: https://assetstore.unity.com/packages/3d/vehicles/sea/fishing-ship-hq-pbr-125632
+* Lifeboat Hand-Painted: https://assetstore.unity.com/packages/3d/vehicles/sea/lifeboat-hand-painted-167715
+
 ## 3D > Vehicles > Space
 
+* ADONIS - Aerospace: https://assetstore.unity.com/packages/3d/vehicles/space/adonis-aerospace-168963
+* Astra Starship Fleet Package: https://assetstore.unity.com/packages/3d/vehicles/space/astra-starship-fleet-package-4392

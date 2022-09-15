@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5090149478246800781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 565743018197928676, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928678, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Name
+      value: BBlock Plinth Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928679, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedEdges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedFaces.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedVertices.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 87.57495
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 45.324905
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8050652
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5931864
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 72.767
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018356944634, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Text
+      value: '<b>BBlock</b>
+
+        <i>Thibault Jaouen</i>
+
+
+        3D > Environments
+
+        v1.1,
+        14 November 2019
+
+        144.3 MB
+
+
+        <i>BBlock is a collection of
+        688 3D objects dedicated to prototyping in Unity, you can perform your tests
+        faster thanks to a wide variety of 3D models: blocks, angles, slopes, corners,
+        vaults, patterns, curves, obstacles, walls ...</i>
+
+
+
+        $4.99'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}

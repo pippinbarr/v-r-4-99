@@ -289,3 +289,21 @@ At any rate, I'm just going to keep working away on this game, finances be damne
 Oh and I'm thinking I'll write an essay about this game and its process and its focus on MONEY for the book! Let's see how that goes too.
 
 Anyway, it'll be nice to be back to making something, that's for sure.
+
+# Dear god, I'm sorry (15 September 2022)
+
+It's not you, it's me. It's me not following my own design methodology. It's me avoiding commenting on *v r $4.99* because it has felt simultaneously so simple (why bother writing about it?) and so fucking complicated (how could I possibly write about it?). BUT.
+
+Well since the 30th of June in 2021 some water has passed under the ol' bridge of time. Or is the water the time? And I'm the bridge? Nevermind.
+
+Let me just state right now that I built the "finishedish" version (just a few plinths incorrect) and... well there are some issues...
+
+* On mac it takes roughly 30 seconds to start; and this is just starting at your desktop with a bouncing icon in the dock, looks a lot like it isn't working until it does; and this is despite having written a preloader scene I had assumed would delay the delay until I at least had a preloading screen up. Nope.
+* On windows it's more or less the same, maybe a little faster but also less predictable when the splash will suddenly arrive etc.
+* When it's running and you move around the desert there is somewhat frequent lag/stalling when you look around at new areas, to a distracting degree.
+* I'm assuming all of the above are around the fact that it's an asset heavy project, some of the assets are fucking enormous, there's not that much I can do to change that in the current setup, and I don't want to change the assets themselves... it's just like 17.5 GB of assets sitting in a single scene and that fucks things pretty hard it seems. I need help with that.
+* A smaller problem is just the desert being pretty big. The space between assets sometimes feels just too big. This at least has a "solution" which is to remake the scene while scaling down the desert a bit, like to 70%? And then **laboriously repositioning every single fucking assets oh god**.
+
+But how do I deal with the memory bullshit? That I do not know. Fog?! WHat about a bit of the ol' FOG! Maybe. I'm sure there are tricks I can apply and I will probably beg on Twitter for insight if I can get it.
+
+Anyway, it's the game that won't end, even though it remains a super cool idea, and it's super cool in practice, we're now at the level of curation/layout and technician stuff. Will we get there? I want to say yes, but I honestly don't know.

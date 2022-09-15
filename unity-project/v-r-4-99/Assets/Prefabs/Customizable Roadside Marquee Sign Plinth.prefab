@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4995648142998466200
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 565743018197928676, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928678, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Name
+      value: Customizable Roadside Marquee Sign Plinth
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928679, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedEdges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedFaces.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928682, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_SelectedVertices.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 133.75562
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25.789211
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 111.583984
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018197928683, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565743018356944634, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
+      propertyPath: m_Text
+      value: '<b>Customizable Roadside Marquee Sign</b>
+
+        Dustin Bogers
+
+
+        3D
+
+        v1.0,
+        6 October 2017
+
+        16.5 MB
+
+
+        <i>Create eye-catching roadside
+        advertising for your scenes with this asset!</i>
+
+
+        $4.99'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 716b6ac0db92f44f88cc4bd2f889cf88, type: 3}
