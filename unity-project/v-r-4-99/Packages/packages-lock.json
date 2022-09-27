@@ -110,11 +110,11 @@
       }
     },
     "se.hertzole.gold-player": {
-      "version": "https://github.com/Hertzole/gold-player.git#dev-package",
+      "version": "https://github.com/Hertzole/gold-player.git#package",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "350c865f6374a02cd24717f9ca133c51ebaf4c72"
+      "hash": "47d59061e4821dcf47b6f0bac0fb50e87b23097b"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

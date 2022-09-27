@@ -307,3 +307,54 @@ Let me just state right now that I built the "finishedish" version (just a few p
 But how do I deal with the memory bullshit? That I do not know. Fog?! WHat about a bit of the ol' FOG! Maybe. I'm sure there are tricks I can apply and I will probably beg on Twitter for insight if I can get it.
 
 Anyway, it's the game that won't end, even though it remains a super cool idea, and it's super cool in practice, we're now at the level of curation/layout and technician stuff. Will we get there? I want to say yes, but I honestly don't know.
+
+# Oh boy problems (23 September 2022)
+
+Well the game is tooooo big.
+
+I'm now building a few versions to test ideas, but basically feeling a touch screwed?
+
+* Build that only has the loading scene
+  * 3s to splash
+  * Then crashes because I forgot to disable the script
+* Build that has the big scene but doesn't load it
+  * 15s to splash
+* Full build with default
+  * 24s to splash
+  * 8s to game
+* Full build with lz4hc
+  * 13s to splash < that isn't actually all that terrible?
+  * 8s to game
+
+I'm wondering about further trimming out some of the more enormous models.
+
+I'm wondering if it makes a difference if I load in models later on as Resource elements rather than as built into the scene immediately (but that would have startlingly obvious pop-in and so on - does that matter? I suppose you might get away with )
+
+What if you keep the things that are near the player but quietly load anything small and far enough away?
+
+But do I want to get into this level of engineering given the numbers above? They're not THAT bad? Particularly with lz4hc?
+
+I guess I should at least TRY the idea of instantiating prefabs at runtime from a Resources folder? MEANWHILE UNITY CRASHES AS I WRITE THIS. It's such a tricky question.
+
+Meanwhile the .zip of the lz4hc build is 2.02GB which is perilously close to being able to host on GitHub so I think it's worth subbing out at least one more giant asset. The fruits?
+
+#### A bit later
+
+Well I bit the bullet and removed the Animals deluxe v2 because they were fucking enormous. The Assets folder is now under 10GB (I believe it hit 17GB at one point?). So the new stats are:
+
+* Full build with lz4hc:
+  * 1.99 GB unzipped, 1.74 GB zipped (GH friendly)
+  * 11s to splash
+  * 6s to game
+
+You know what? That just is not all that bad for a weird giant game that displays a ton of distinct assets in a desert? I think it's pretty acceptable. I suppose it's questionable how well it runs on older systems but I'm beginning to be ready to believe this is borderline ready...
+
+One weird thing: why is it so variable whether the loading screen displays properly or not???
+
+Well I think we're actually close now? That load time is pretty acceptable now, I suppose the only thing is to attempt a Resource folder build just to see if it's "easy" to do and dramatically improves launch?
+
+#### A bit later
+
+No I'm not going to fuck with that Resources folder. It's kind of fine now. 11s to splash is legitimately okay, I doubt many people assume it's crashed in that period of time and I'll include a README that acknowledges it in a cute way?
+
+It's looking.... pretty fucking good. Some small bugs and I need to explore more, but I think it works? I should probably actually send it to J&M.

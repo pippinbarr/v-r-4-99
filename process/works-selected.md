@@ -6,7 +6,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 # Asset list
 
 ## 3D
-* √ Biology Cells Pack: https://assetstore.unity.com/packages/3d/biology-cells-pack-97118
+* √ Biology Cells Pack: https://assetstore.unity.com/packages/3d/biology-cells-pack-97118 281MB
 * √ Customizable Roadside Marquee Sign: https://assetstore.unity.com/packages/3d/customizable-roadside-marquee-sign-100458
 
 ## 3D > Animations
@@ -18,7 +18,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 * √ Prisoner-02: https://assetstore.unity.com/packages/3d/characters/prisoner-02-107465
 
 ## 3D > Characters > Animals
-* √ Animal pack deluxe v2: https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-v2-144071
+* √ Animal pack deluxe v2: https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-v2-144071 729 MB
 * √ Low poly rigged animals: https://assetstore.unity.com/packages/3d/characters/animals/low-poly-rigged-animals-123656
 
 ## 3D > Characters > Animals > Birds
@@ -38,7 +38,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 * √ https://assetstore.unity.com/packages/3d/characters/animals/mammals/cu-puppy-17183
 
 ### 3D > Characters > Animals > Reptiles
-* √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/t-rex-model-49824
+* √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/t-rex-model-49824 370 MB
 * √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/tyrannosaurus-rex-dinosaur-32643
 
 ### 3D > Characters > Creatures
@@ -64,22 +64,22 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 * √ https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/area-51-alien-bioluminescent-alien-and-ufo-150889
 
 ### 3D > Characters > Robots
-* √ https://assetstore.unity.com/packages/3d/characters/robots/brute-robot-173508
+* √ https://assetstore.unity.com/packages/3d/characters/robots/brute-robot-173508 329 MB
 * √ https://assetstore.unity.com/packages/3d/characters/robots/low-poly-scifi-turrets-107425#content
 
 ## 3D > Environments
 * √ BBlock: https://assetstore.unity.com/packages/3d/environments/bblock-61644
-* √ Small Town America Super Store: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064
+* √ Small Town America Super Store: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064 396 MB
 
 ## 3D > Environments > Dungeons
 
-* √ Medieval Dungeon & Torture Chamber: https://assetstore.unity.com/packages/3d/environments/dungeons/medieval-dungeon-torture-chamber-131181
+* √ Medieval Dungeon & Torture Chamber: https://assetstore.unity.com/packages/3d/environments/dungeons/medieval-dungeon-torture-chamber-131181 402 MB
 * √ New Dungeon Pack Modular Low Poly: https://assetstore.unity.com/packages/3d/environments/dungeons/new-dungeon-pack-modular-low-poly-174175
 
 ## 3D> Environments > Fantasy
 
 * √ Fantasy Ruins Pack: https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-ruins-pack-12207
-* √ HQ Medieval forge: https://assetstore.unity.com/packages/3d/environments/fantasy/hq-medieval-forge-150002
+* √ HQ Medieval forge: https://assetstore.unity.com/packages/3d/environments/fantasy/hq-medieval-forge-150002 928 MB
 
 ## 3D > Environments > Historic
 
@@ -88,7 +88,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 
 ## 3D > Environments > Industrial
 
-* √ Station v1: https://assetstore.unity.com/packages/3d/environments/industrial/station-v1-103418
+* √ Station v1: https://assetstore.unity.com/packages/3d/environments/industrial/station-v1-103418 765 MB
 * √ Post Apocalyptic Old Gantry/Factory Set/Kit: https://assetstore.unity.com/packages/3d/environments/industrial/post-apocalyptic-old-gantry-factory-set-kit-15479
 
 ## 3D > Environments > Landscapes
@@ -148,7 +148,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 ## 3D > Props > Food
 
 * Fast Food Pack: https://assetstore.unity.com/packages/3d/props/food/fast-food-pack-low-poly-series-189176
-* Fruit with LODs: https://assetstore.unity.com/packages/3d/props/food/fruit-with-lods-160541
+* Fruit with LODs: https://assetstore.unity.com/packages/3d/props/food/fruit-with-lods-160541 145.6 MB
 
 ## 3D > Props > Furniture
 
@@ -157,7 +157,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 
 ## 3D > Props > Guns
 
-* Guns Pack: https://assetstore.unity.com/packages/3d/props/guns/guns-pack-53729 (5)
+* Guns Pack: https://assetstore.unity.com/packages/3d/props/guns/guns-pack-53729 (5) 359.7 MB
 * Cap Gun with Arms: https://assetstore.unity.com/packages/3d/props/guns/cap-gun-with-arms-38686
 
 ## 3D > Props > Industrial
@@ -176,6 +176,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 
 * Ladders: https://assetstore.unity.com/packages/3d/props/tools/ladders-73120
 * A wrench: https://assetstore.unity.com/packages/3d/props/tools/a-wrench-119301
+* Actually used the crowbar
 
 ## 3D > Props > Weapons
 
@@ -184,7 +185,7 @@ This is where I'll straightforwardly list the pieces that are going into the gam
 
 ## 3D > Vegetation
 
-* Plants pack: https://assetstore.unity.com/packages/3d/vegetation/plants-pack-177792
+* Plants pack: https://assetstore.unity.com/packages/3d/vegetation/plants-pack-177792 129.2 MB
 * Realistic Grass Asstets: https://assetstore.unity.com/packages/3d/vegetation/realistic-grass-assets-110789
 
 ## 3D > Vegetation > Flowers

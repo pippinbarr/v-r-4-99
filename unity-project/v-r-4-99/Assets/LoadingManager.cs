@@ -5,9 +5,16 @@ using UnityEngine.SceneManagement;
 
 public class LoadingManager : MonoBehaviour
 {
-    private string _sceneName = "TheDesert";
+    public string _sceneName = "<scene name>";
 
     private AsyncOperation _asyncOperation;
+
+    private IEnumerator BeginLoad()
+    {
+      yield return new WaitForSecondsRealtime(time: 1f);
+
+      StartCoroutine(this.LoadSceneAsyncProcess());
+    }
 
     private IEnumerator LoadSceneAsyncProcess()
     {
@@ -27,16 +34,19 @@ public class LoadingManager : MonoBehaviour
 
     private void Start()
     {
-      StartCoroutine(this.LoadSceneAsyncProcess());
+      StartCoroutine(BeginLoad());
     }
 
     private void Update()
     {
+
         if (this._asyncOperation != null)
         {
             Debug.Log("Allowed Scene Activation");
 
             this._asyncOperation.allowSceneActivation = true;
         }
-    }
+
+
+}
 }

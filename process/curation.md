@@ -297,3 +297,45 @@ What shall they have on them?
 * Just installed the low poly fast food and the fruit pack. The idea there was another realism/low poly comparison. I especially like the fruit pack because there's one exemplar that comes in a bowl and is just nicely referent to the idea of a still life. Also learned after the fact that every fruit has a ROTTEN VERSION which is awesome. 
 * The fast food is nice enough, if not a lot to write home about. It did come with a funny floor texture under it that I think has the key textures being used on the foods as a kind of palette example or handy tool? Anyway it was a nice feature that I included as part of the pedestal.
 * So a bit uneventful but nice.
+
+## 16-09-2022
+
+Hairy notes written as I try to triage file size by swapping out a few of the biggest culprits...
+
+* Animal pack deluxe v2: https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-v2-144071 729 MB
+
+* √ https://assetstore.unity.com/packages/3d/characters/animals/reptiles/t-rex-model-49824 370 MB
+
+* √ https://assetstore.unity.com/packages/3d/characters/robots/brute-robot-173508 329 MB
+
+* √ Small Town America Super Store: https://assetstore.unity.com/packages/3d/environments/small-town-america-super-store-57064 396 MB
+
+* √ Medieval Dungeon & Torture Chamber: https://assetstore.unity.com/packages/3d/environments/dungeons/medieval-dungeon-torture-chamber-131181 402 MB
+
+* √ HQ Medieval forge: https://assetstore.unity.com/packages/3d/environments/fantasy/hq-medieval-forge-150002 928 MB
+
+* √ Station v1: https://assetstore.unity.com/packages/3d/environments/industrial/station-v1-103418 765 MB
+
+* Fruit with LODs: https://assetstore.unity.com/packages/3d/props/food/fruit-with-lods-160541 145.6 MB
+
+* Guns Pack: https://assetstore.unity.com/packages/3d/props/guns/guns-pack-53729 (5) 359.7 MB
+
+* Plants pack: https://assetstore.unity.com/packages/3d/vegetation/plants-pack-177792 129.2 MB
+
+10/88 (0.11) 4.5/17 GB (0.26)
+
+Of these if I were killing some darlings it would be
+
+* Forge
+* Station v1
+* Guns pack
+* T-Rex Model
+
+And maybe
+
+* Brute robot
+* Torture dungeon
+
+6/88 (0.07) totalling 3.2/17 GB (0.19) (average asset size is 193MB, without these it's 168.1MB)
+
+Anyway it seems like an obvious call. Not least because a bunch of these aren't necessarily thaaaat amazing?
