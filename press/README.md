@@ -5,7 +5,7 @@
 ## The basics
 
 * Developer: [Pippin Barr](http://www.pippinbarr.com/)
-* Release: 29 September 2022
+* Release: 5 October 2022
 * Platform: Mac and Windows
 * Code repository: https://www.github.com/pippinbarr/v-r-4-99/
 * Price: $0.00 (trust me, I thought about charging $4.99)
