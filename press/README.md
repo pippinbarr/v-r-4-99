@@ -1,6 +1,6 @@
 # *v r $4.99* Press Kit
 
-#### Download *v r $4.99* for [Mac](https://github.com/pippinbarr/v-r-4-99/releases/tag/mac) or [Windows](https://github.com/pippinbarr/v-r-4-99/releases/tag/windows). Make sure to pick up the [Visitor's Guide](https://github.com/pippinbarr/v-r-4-99/releases/tag/guide) too!
+#### Download *v r $4.99* for [Mac](https://github.com/pippinbarr/v-r-4-99/releases/tag/mac) or [Windows](https://github.com/pippinbarr/v-r-4-99/releases/tag/windows). Make sure to pick up the [Visitor's Guide](https://github.com/pippinbarr/v-r-4-99/releases/download/guide/v-r-4-99-visitors-guide.pdf) too!
 
 ## The basics
 

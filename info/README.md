@@ -2,7 +2,7 @@
 
 ![Banner](images/v-r-4-99-banner.png)
 
-# Download *v r $4.99* for [Mac](https://github.com/pippinbarr/v-r-4-99/releases/tag/mac) or [Windows](https://github.com/pippinbarr/v-r-4-99/releases/tag/windows). Make sure to pick up the [Visitor's Guide](https://github.com/pippinbarr/v-r-4-99/releases/tag/guide) too!
+# Download *v r $4.99* for [Mac](https://github.com/pippinbarr/v-r-4-99/releases/tag/mac) or [Windows](https://github.com/pippinbarr/v-r-4-99/releases/tag/windows). Make sure to pick up the [Visitor's Guide](https://github.com/pippinbarr/v-r-4-99/releases/download/guide/v-r-4-99-visitors-guide.pdf) too!
 
 ## Description
 *What does $4.99 get you these days?! One crowbar?! Two swordfish?! Three airliners?! Four Sci-Fi doors?! A super store?! The Taj Mahal?! The Sahara desert?! A seagull?! Come and see!*
