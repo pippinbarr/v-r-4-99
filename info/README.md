@@ -24,6 +24,7 @@ Read the [Press Kit](../press) for press information
 * Cavanagh, Terry. [v r $4.99](https://terrysfreegameoftheweek.com/2022/10/). Terry's Free Game of the Week. 7 October 2022.
 
 ![](images/2022-10-07-asset-store-likes-the-game.png)
+*The Asset Store itself liked the game. Doesn't get any better than that.*
 
 ## License
 *v r $4.99* is an open source game licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/). You can obtain the source code from its [code repository](https://github.com/pippinbarr/v-r-4-99) on GitHub. Except that it's totally based on paid assets from the Unity Asset Store, none of which are made available in this repository, so it won't exactly be interesting to work with.
